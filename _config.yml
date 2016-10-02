@@ -193,7 +193,7 @@ meta:
       entry_point: 'predgovor'
       order:
         - predgovor
-        - why-open-data
+        - pravo-na-pristup-informacijama
         - what-is-open-data
         - how-to-open-up-data
         - following-up
