@@ -57,28 +57,28 @@
     </li>
     {% endif %}
     <li class="share tooltip-item">
-      Share
+      Podijelite
       
       <span class="tooltip">
-        <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" class="facebook" rel="external">Share on Facebook</a>
-        <a href="https://twitter.com/home?status={{page.title }}: {{ site.url }}{{ page.url }}" class="twitter" rel="external">Share on Twitter</a>
+        <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" class="facebook" rel="external">Podijelite na Facebooku</a>
+        <a href="https://twitter.com/home?status={{page.title }}: {{ site.url }}{{ page.url }}" class="twitter" rel="external">Podijelite na Twitteru</a>
       </span>
     </li>
     {% if page.section == 'resources' %}
     <li class="add tooltip-item">
-      Add a resource
+      Dodaj resurs
       
       <span class="tooltip">
-        <a href="{{ "/contribute/add-resource/" | prepend: site.baseurl }}" target="_blank">Help and instructions</a>
+        <a href="{{ "/contribute/add-resource/" | prepend: site.baseurl }}" target="_blank">Pomoć i upute</a>
       </span>
     </li>
     {% endif %}
     {% if page.section == 'solutions-landing' %}
     <li class="add tooltip-item">
-      Add a solution
+      Dodaj rješenje
       
       <span class="tooltip">
-        <a href="{{ "/contribute/" | prepend: site.baseurl }}" target="_blank">Help and instructions</a>
+        <a href="{{ "/contribute/" | prepend: site.baseurl }}" target="_blank">Pomoć i upute</a>
       </span>
     </li>
     {% endif %}

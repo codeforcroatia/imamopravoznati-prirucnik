@@ -1,8 +1,8 @@
 ---
-redirect_from: /hr/appendices/index.html
-section: guide
+redirect_from: /hr/dodaci/index.html
+section: smjernice
 lang: hr
-title: Dodaci
+title: Dodaci2
 ---
 
 -   [Formati datoteka](file-formats.html)
