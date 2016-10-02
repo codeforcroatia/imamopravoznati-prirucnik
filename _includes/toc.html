@@ -14,7 +14,7 @@
   {% endif %}
 
   {% for chapter in site.pages %}
-  {% if chapter.section == 'guide' and chapter.lang == page.lang and chapter.path contains 'index' and chapter.path contains node %}
+  {% if chapter.section == 'vodic' and chapter.lang == page.lang and chapter.path contains 'index' and chapter.path contains node %}
   <li><a href="{{ chapter.url }}" title="{{ chapter.title }}">{{ chapter.title }}</a></li>
   {% endif%}
   {% endfor %}
