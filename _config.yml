@@ -10,7 +10,7 @@ baseurl: ""
 url: "http://publikacije.codeforcroatia.org" # the base hostname & protocol for your site
 github_username:  codeforcroatia
 github_repo:  ppi/prirucnik
-paypal: test@test.org
+paypal: 
 contact: http://diskurs.open.hr/
 
 gems:
