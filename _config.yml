@@ -194,8 +194,8 @@ meta:
       order:
         - predgovor
         - pravo-na-pristup-informacijama
-        - what-is-open-data
-        - how-to-open-up-data
+        - proaktivna-objava-informacija
+        - ostvarivanje-prava-na-pristup-informacijama
         - following-up
         - events
         - glossary
@@ -204,16 +204,16 @@ meta:
         - title: 'Predgovor'
           slug: 'predgovor'
           sections:
-            - title: 'Target Audience'
-              slug: 'target-audience'
-            - title: 'Credits'
-              slug: 'credits'
-        - title: 'Why Open Data?'
-          slug: 'why-open-data'
-        - title: 'What is Open Data?'
-          slug: 'what-is-open-data'
-        - title: 'How to Open Up Data'
-          slug: 'how-to-open-up-data'
+            - title: 'Ciljana publika'
+              slug: 'ciljana-publika'
+            - title: 'Zasluge i autorska prava'
+              slug: 'zasluge-i-autorska-prava'
+        - title: 'Pravo na pristup informacijama'
+          slug: 'pravo-na-pristup-informacijama'
+        - title: 'Proaktivna objava informacija'
+          slug: 'proaktivna-objava-informacija'
+        - title: 'Ostvarivanje prava na pristup informacijama'
+          slug: 'ostvarivanje-prava-na-pristup-informacijama'
         - title: "So I've Opened Up Some Data, Now What? "
           slug: 'following-up'
         - title: "Make data social"

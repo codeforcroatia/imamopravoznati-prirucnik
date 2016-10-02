@@ -86,9 +86,9 @@ Pristup informacijama možete ostvariti putem internetskih stranica tijela javne
 
 Ukoliko informacija nije objavljena na Internet stranici tijela javne vlasti, pristup informacijama možete ostvariti i podnošenjem zahtjeva. U oba slučaja Vam kao pomoć može poslužiti [Popis tijela vlasti](http://tjv.pristupinfo.hr) koji sadrži listu tijela javne vlasti i njihove kontakt podatke.
 
-### Ukratko
-
 ```
+UKRATKO
+
 Razmislite tražite li informaciju o sebi ili ste stranka u određenim postupcima kod tijela javne vlasti te Vas zanima tijek postupka, jer u tim slučajevima uvid u te podatke ostvarujete prema posebnim zakonima.
 
 Razmislite je li ono što planirate zatražiti informacija u smislu Zakona o pravu na pristup informacijama (gotova informacija, dokument, zapis i sl.) ili je to upit, tumačenje nekih prava i propisa i slično, u kojem slučaju biste upit trebali uputiti na odgovarajuća službe za korisnike tijela javne vlasti.
