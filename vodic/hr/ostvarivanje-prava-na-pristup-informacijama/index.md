@@ -30,11 +30,9 @@ Primjeri informacija koje možete tražiti:
 - Popis dječjih vrtića, škola, zdravstvenih ustanova u nekom gradu (iako ga možete pronaći i u Popisu tijela javne vlasti).
 - Iznos koji je tijelo javne vlasti potrošilo na službena putovanja, bruto plaće ili organizaciju nekog javnog događaja.
 
-```
-UKRATKO
+### Ukratko
 
-Informacija je svaki podatak koji posjeduje tijelo javne vlasti u obliku dokumenta, zapisa, dosjea, registra, neovisno o načinu na koji je prikazan, koji je tijelo izradilo samo ili u suradnji s drugim tijelima ili dobilo od druge osobe, a nastao je u okviru djelokruga ili u vezi s organizacijom i radom tijela javne vlasti.
-```
+> Informacija je svaki podatak koji posjeduje tijelo javne vlasti u obliku dokumenta, zapisa, dosjea, registra, neovisno o načinu na koji je prikazan, koji je tijelo izradilo samo ili u suradnji s drugim tijelima ili dobilo od druge osobe, a nastao je u okviru djelokruga ili u vezi s organizacijom i radom tijela javne vlasti.
 
 ## Što ako želim pristupiti informacijama o samome sebi?
 
@@ -88,6 +86,4 @@ Stoga uzmite u obzir potrebu da Vaš zahtjev bude jasan i potpun, da ne sadrži 
 
 ### Savjet više
 
-```
-Zatražite od službenika za informiranje u tijelu javne vlasti da potvrdi primitak Vašeg zahtjeva za pristup informacijama, osobito ako ste ga podnijeli putem elektroničke pošte. Dokaz o slanju zahtjeva bit će koristan u slučaju žalbenog postupka.
-```
+> Zatražite od službenika za informiranje u tijelu javne vlasti da potvrdi primitak Vašeg zahtjeva za pristup informacijama, osobito ako ste ga podnijeli putem elektroničke pošte. Dokaz o slanju zahtjeva bit će koristan u slučaju žalbenog postupka.

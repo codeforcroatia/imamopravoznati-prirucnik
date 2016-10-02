@@ -49,19 +49,17 @@ Osim već spomenutog načela javnosti i slobodnog pristupa prema kojem su inform
 
 ### Ukratko
 
-```
-Svatko može tražiti i dobiti informacije od tijela javne vlasti neovisno o svrsi i pod uvjetima propisanim Zakonom.
-
-Dobivene informacije možete koristiti kako želite.
-
-Možete sudjelovati u postupku donošenja propisa putem savjetovanja s javnošću i pratiti kako se odvijaju sjednice tijela javne vlasti.
-
-Tijela javne vlasti koja su obvezna pružiti informaciju u pravilu se nalaze Popisu tijela javne vlasti.
-
-Ako Vam tijelo javne vlasti uskrati pristup informaciji ili ne odgovori na Vaš zahtjev, možete podnijeti žalbu Povjereniku za informiranje.
-
-Ako uočite nepravilnosti ili kršenje Zakona od strane tijela javne vlasti možete uputiti predstavku Povjereniku za informiranje.
-```
+> Svatko može tražiti i dobiti informacije od tijela javne vlasti neovisno o svrsi i pod uvjetima propisanim Zakonom.
+> 
+> Dobivene informacije možete koristiti kako želite.
+> 
+> Možete sudjelovati u postupku donošenja propisa putem savjetovanja s javnošću i pratiti kako se odvijaju sjednice tijela javne vlasti.
+> 
+> Tijela javne vlasti koja su obvezna pružiti informaciju u pravilu se nalaze Popisu tijela javne vlasti.
+> 
+> Ako Vam tijelo javne vlasti uskrati pristup informaciji ili ne odgovori na Vaš zahtjev, možete podnijeti žalbu Povjereniku za informiranje.
+> 
+> Ako uočite nepravilnosti ili kršenje Zakona od strane tijela javne vlasti možete uputiti predstavku Povjereniku za informiranje.
 
 ## Kako se štiti moje pravo na pristup informacijama?
 
@@ -78,7 +76,7 @@ Povjerenik, točnije trenutno Povjerenica za informiranje, sa svojim Uredom, oba
 
 Više informacija o Povjereniku možete pronaći na [službenim internetskim stranicama](http://www.pristupinfo.hr).
 
-Odluke i mišljenja Povjerenika te odluke Visokog upravnog suda dostupne su u posebnoj aplikaciji [Tražilica mišljenja i odluka](http://tom.pristupinfo.hr).
+Odluke i mišljenja Povjerenika te odluke Visokog upravnog suda dostupne su u posebnoj aplikaciji [Tražilica mišljenja i odluka - TOM](http://tom.pristupinfo.hr).
 
 ## Trebam informaciju – odakle početi?
 
@@ -86,17 +84,15 @@ Pristup informacijama možete ostvariti putem internetskih stranica tijela javne
 
 Ukoliko informacija nije objavljena na Internet stranici tijela javne vlasti, pristup informacijama možete ostvariti i podnošenjem zahtjeva. U oba slučaja Vam kao pomoć može poslužiti [Popis tijela vlasti](http://tjv.pristupinfo.hr) koji sadrži listu tijela javne vlasti i njihove kontakt podatke.
 
-```
-UKRATKO
+### Ukratko
 
-Razmislite tražite li informaciju o sebi ili ste stranka u određenim postupcima kod tijela javne vlasti te Vas zanima tijek postupka, jer u tim slučajevima uvid u te podatke ostvarujete prema posebnim zakonima.
-
-Razmislite je li ono što planirate zatražiti informacija u smislu Zakona o pravu na pristup informacijama (gotova informacija, dokument, zapis i sl.) ili je to upit, tumačenje nekih prava i propisa i slično, u kojem slučaju biste upit trebali uputiti na odgovarajuća službe za korisnike tijela javne vlasti.
-
-Ako se radi o informaciji u smislu Zakona o pravu na pristup informacijama, provjerite je li informacija već javno objavljena na internetskoj stranici tijela za koje smatrate da posjeduje informaciju ili na nekom od državnih portala, npr. u [Središnjem katalogu službenih dokumenata RH](http://www.digured.hr) ili je već objavljena putem [Portala otvorenih podataka RH](https://data.gov.hr), odnosno na portalu [eSavjetovanja](https://esavjetovanja.gov.hr) ili provjerite je li možda informacija već zatražena i objavljena na platformi [Imamo pravo znati](https://imamopravoznati.org).
-
-Ako informacija nije već javno dostupna, konzultirajte [Popis tijela javne vlasti](http://tjv.pristupinfo.hr) i saznajte kontakte službenika za informiranje u tijelu javne vlasti od kojeg želite dobiti informaciju, odnosno tijela za koje mislite da posjeduje informaciju.
-
-Zahtjev za pristup informacijama možete uputiti pismenim (poštom ili elektroničkom poštom) ili usmenim putem (u tom slučaju službenik će sačiniti službenu bilješku), u
+> Razmislite tražite li informaciju o sebi ili ste stranka u određenim postupcima kod tijela javne vlasti te Vas zanima tijek postupka, jer u tim slučajevima uvid u te podatke ostvarujete prema posebnim zakonima.
+> 
+> Razmislite je li ono što planirate zatražiti informacija u smislu Zakona o pravu na pristup informacijama (gotova informacija, dokument, zapis i sl.) ili je to upit, tumačenje nekih prava i propisa i slično, u kojem slučaju biste upit trebali uputiti na odgovarajuća službe za korisnike tijela javne vlasti.
+> 
+> Ako se radi o informaciji u smislu Zakona o pravu na pristup informacijama, provjerite je li informacija već javno objavljena na internetskoj stranici tijela za koje smatrate da posjeduje informaciju ili na nekom od državnih portala, npr. u [Središnjem katalogu službenih dokumenata RH](http://www.digured.hr) ili je već objavljena putem [Portala otvorenih podataka RH](https://data.gov.hr), odnosno na portalu [eSavjetovanja](https://esavjetovanja.gov.hr) ili provjerite je li možda informacija već zatražena i objavljena na platformi [Imamo pravo znati](https://imamopravoznati.org).
+> 
+> Ako informacija nije već javno dostupna, konzultirajte [Popis tijela javne vlasti](http://tjv.pristupinfo.hr) i saznajte kontakte službenika za informiranje u tijelu javne vlasti od kojeg želite dobiti informaciju, odnosno tijela za koje mislite da posjeduje informaciju.
+> 
+> Zahtjev za pristup informacijama možete uputiti pismenim (poštom ili elektroničkom poštom) ili usmenim putem (u tom slučaju službenik će sačiniti službenu bilješku), u
 skladu s uputama u ostatku ovoga Vodiča.
-```

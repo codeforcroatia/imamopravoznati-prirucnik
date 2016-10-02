@@ -196,8 +196,8 @@ meta:
         - pravo-na-pristup-informacijama
         - proaktivna-objava-informacija
         - ostvarivanje-prava-na-pristup-informacijama
-        - following-up
-        - events
+        - odlucivanje-o-zahtjevu-za-pristup-informacijama
+        - zastita-prava-na-pristup-informacijama
         - glossary
         - appendices
       chapters:
@@ -214,10 +214,10 @@ meta:
           slug: 'proaktivna-objava-informacija'
         - title: 'Ostvarivanje prava na pristup informacijama'
           slug: 'ostvarivanje-prava-na-pristup-informacijama'
-        - title: "So I've Opened Up Some Data, Now What? "
-          slug: 'following-up'
-        - title: "Make data social"
-          slug: 'events'
+        - title: "Odlučivanje o zahtjevu za pristup informacijama"
+          slug: 'odlucivanje-o-zahtjevu-za-pristup-informacijama'
+        - title: "Zaštita prava na pristup informacijama"
+          slug: 'zastita-prava-na-pristup-informacijama'
         - title: 'Appendices'
           slug: 'appendices'
   smjernice:
