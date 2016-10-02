@@ -1,6 +1,6 @@
 ---
 redirect_from: /hr/predgovor/index.html
-section: guide
+section: vodic
 lang: hr
 title: Predgovor
 ---
