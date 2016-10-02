@@ -9,7 +9,7 @@ description: |
 baseurl: ""
 url: "http://publikacije.codeforcroatia.org" # the base hostname & protocol for your site
 github_username:  codeforcroatia
-github_repo:  ppi/prirucnik
+github_repo:  ppi-prirucnik
 paypal: 
 contact: http://diskurs.open.hr/
 
@@ -26,49 +26,40 @@ devs:
   -
       name: Paul Walsh
       github: pwalsh
+  -
+      name: Miroslav Schlossberg
+      github: schlos
 
 contributors:
   -
-      name: Daniel Dietrich
-      link: http://ddie.me/
+      name: Anamarija Musa
+      link: http://www.pristupinfo.hr/
   -
-      name: Jonathan Gray
-      link: http://jonathangray.org/
+      name: Ina Volmut
+      link: http://www.pristupinfo.hr/
   -
-      name: Tim McNamara
-      link: http://timmcnamara.co.nz/
+      name: Lucija Jadrijević
+      link: http://www.pristupinfo.hr/
   -
-      name: Antti Poikola
-      link: http://poikola.fi/
-  -
-      name: Rufus Pollock
-      link: http://rufuspollock.org/
-  -
-      name: Julian Tait
-      link: http://www.littlestar.tv/
-  -
-      name: Ton Zijlstra
-      link: http://www.zylstra.org/blog/
-  -
-      name: Sam Smith
-      link: http://smth.uk/
+      name: Dubravka Bevandić
+      link: http://www.pristupinfo.hr/
 
 supporters:
   -
-    name: Shuttleworth Foundation
+    name: Povjerenik za informiranje
     logo: shuttleworth.png
     footer_logo: shuttleworth-footer.png
-    url: https://www.shuttleworthfoundation.org/
+    url: http://www.pristupinfo.hr
   -
-    name: The World Bank
-    logo: worldbank.png
-    footer_logo: worldbank-footer.png
-    url: http://www.worldbank.org/
+    name: British Embassy Zagreb
+    logo: shuttleworth.png
+    footer_logo: shuttleworth-footer.png
+    url: https://www.gov.uk/government/world/organisations/british-embassy-zagreb
   -
-    name: OD4D
+    name: Code for Croatia
     logo: od4d.png
     footer_logo: od4d-footer.png
-    url: http://od4d.net/
+    url: http://codeforcroatia..org/
 
 
 googleanalytics: UA-8271754-XXX
