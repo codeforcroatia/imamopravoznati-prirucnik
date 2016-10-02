@@ -1,15 +1,17 @@
 # Site settings
-title: The Open Data Handbook
-short_title: Open Data Handbook
+title: Pravo na informiranje
+short_title: Pravo na informiranje
 description: |
-  Guides, case studies and resources for government & civil society
-  on the "what, why & how" of open data.
+  Pristup informacijama temeljno je demokratsko načelo i pravo svih građana u suvremenim 
+  demokracijama, koje omogućuje razvoj transparentne i otvorene javne vlasti, jača 
+  odgovornost javnog sektora, potiče korisnički orijentirano djelovanje javne uprave, 
+  suzbija korupciju i povećava legitimitet institucija i povjerenje građana u vlast.
 baseurl: ""
-url: "http://opendatahandbook.org" # the base hostname & protocol for your site
-github_username:  okfn
-github_repo:  opendatahandbook
-paypal: admin@okfn.org
-contact: https://discuss.okfn.org/c/open-data-handbook
+url: "http://publikacije.codeforcroatia.org" # the base hostname & protocol for your site
+github_username:  codeforcroatia
+github_repo:  ppi/prirucnik
+paypal: test@test.org
+contact: http://diskurs.open.hr/
 
 gems:
   - jekyll-redirect-from
@@ -140,8 +142,8 @@ languages:
     - 繁體中文
 
 toc:
-  - guide
-    - introduction
+  - vodič
+    - predgovor
     - why-open-data
     - what-is-open-data
     - how-to-open-up-data
@@ -170,7 +172,7 @@ meta:
     has_translation: true
     title: Open Data Value Stories
     languages:
-      - en
+      - hr
   glossary:
     label: glossary
     output: true
@@ -178,26 +180,7 @@ meta:
     translate_link: true
     title: Open Data Glossary
     languages:
-      - de
-      - el
-      - en
-      - es
-      - fr
-      - he
       - hr
-      - id
-      - is
-      - it
-      - ja
-      - ko
-      - lt
-      - lv
-      - nl_BE
-      - pt_BR
-      - ro
-      - ru
-      - zh_CN
-      - zh_TW
   guide:
     label: guide
     output: true
@@ -205,30 +188,11 @@ meta:
     translate_link: true
     title: Guide
     languages:
-      - de
-      - el
-      - en
-      - es
-      - fr
-      - he
       - hr
-      - id
-      - is
-      - it
-      - ja
-      - ko
-      - lt
-      - lv
-      - nl_BE
-      - pt_BR
-      - ro
-      - ru
-      - zh_CN
-      - zh_TW
     toc:
-      entry_point: 'introduction'
+      entry_point: 'predgovor'
       order:
-        - introduction
+        - predgovor
         - why-open-data
         - what-is-open-data
         - how-to-open-up-data
@@ -237,8 +201,8 @@ meta:
         - glossary
         - appendices
       chapters:
-        - title: 'Introduction'
-          slug: 'introduction'
+        - title: 'Predgovor'
+          slug: 'predgovor'
           sections:
             - title: 'Target Audience'
               slug: 'target-audience'
@@ -284,20 +248,20 @@ defaults:
     scope: #this should be removed once more specific paths are defined
       path: ""
     values:
-      lang: en
+      lang: hr
       layout: page
   -
     scope:
       path: "guide"
     values:
-      lang: en
+      lang: hr
       layout: page
       edit: true
   -
     scope:
       path: "contribute"
     values:
-      lang: en
+      lang: hr
       section: contribute
       layout: docs
       edit: true

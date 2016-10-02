@@ -21,7 +21,7 @@
 {% endif %}
 
 <header class="site-header">
-  <a href="#menu" class="show-menu"><span class="text">Open the menu</span></a>
+  <a href="#menu" class="show-menu"><span class="text">Prikaži izbornik</span></a>
   <a class="site-title" href="{{ site.baseurl }}/">{{ site.short_title }}</a>
 </header>
 
@@ -29,7 +29,7 @@
   <ul>
 
     <li>
-      <a href="{{ site.baseurl }}/">Home</a>
+      <a href="{{ site.baseurl }}/">Početak</a>
     </li>
 
     <li {% if page.url == guide.toc.entry_point %}class="Selected"{% endif %}>
@@ -54,7 +54,7 @@
 
         <!-- start navigation for glossary section -->
         <li{% if page.url contains 'glossary' %} class="Selected"{% endif %}>
-          <a href="{{ glossary_entry_point }}">Glossary</a>
+          <a href="{{ glossary_entry_point }}">Rječnik</a>
         </li>
         <!-- end navigation for glossary section -->
 
@@ -64,7 +64,7 @@
 
     <!-- start navigation for value stories section -->
     <li{% if page.url contains 'value-stories' %} class="Selected"{% endif %}>
-      <a href="{{ value-stories_entry_point }}">Value Stories</a>
+      <a href="{{ value-stories_entry_point }}">Smjernice</a>
       {% comment %}
       <ul>
         {% for story in site.pages %}
@@ -81,7 +81,7 @@
 
     <!-- start navigation for resources section -->
     <li{% if page.url contains 'resources' %} class="Selected"{% endif %}>
-      <a href="{{ resources_entry_point }}">Resources</a>
+      <a href="{{ resources_entry_point }}">Resursi</a>
 
       {% comment %}
       <ul>
@@ -133,10 +133,10 @@
 
     <!-- start navigation for apps section -->
     <li class="apps-menu{% if page.url contains 'solutions' %} Selected{% endif %}">
-      <a href="{{ apps_entry_point }}">Solutions</a>
+      <a href="{{ apps_entry_point }}">Rješenje</a>
       <ul class="app-sub-menu">
         <li class="search">
-          <input type="search" placeholder="Search" class="quicksearch">
+          <input type="search" placeholder="Traži" class="quicksearch">
         </li>
         {% capture appproblems %}{% for page in site.pages %}{% if page.section == 'solutions' %}{% if page.problem %}{{ page.problem }},{% endif %}{% endif %}{% endfor %}{% endcapture %}
         {% if appproblems != '' %}
@@ -210,7 +210,7 @@
 
     <!-- start navigation for contribute section -->
     <li class="{% if page.url contains 'contribute' %}Selected{% endif %}">
-      <a href="{{ "/contribute/" | prepend: site.baseurl }}">Contribute</a>
+      <a href="{{ "/contribute/" | prepend: site.baseurl }}">Pridonesi</a>
       <ul>
         {% for chapter in contribute.toc.chapters %}
         {% assign chapter_url = site.baseurl | append: '/' | append: contribute.label | append: '/' %}
@@ -226,7 +226,7 @@
     <!-- end navigation for contribute section -->
 
     <li{% if page.url contains 'credits' %} class="Selected"{% endif %}>
-      <a href="{{ credits_entry_point }}">Credits</a>
+      <a href="{{ credits_entry_point }}">Zahvale</a>
     </li>
   </ul>
 

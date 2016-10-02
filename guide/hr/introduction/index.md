@@ -1,17 +1,22 @@
 ---
-redirect_from: /hr/introduction/index.html
+redirect_from: /hr/predgovor/index.html
 section: guide
 lang: hr
-title: Uvod
+title: Predgovor
 ---
 
-Znate li koliko se točno vašeg poreznog novca troši na uličnu rasvjetu ili istraživanja za rak? Koje su najkraće, najsigurnije i najslikovitije biciklističke rute iz vašeg doma na posao? I što je u zraku kojeg udišete na tome putu? Gdje su u vašoj okolici najbolje mogućnosti za naći posao i najveći broj drveća voća po stanovniku? Kada možete utjecati na odluke o temama do kojih vam je duboko stalo, i s kim da o tome popričate?
+Pristup informacijama temeljno je demokratsko načelo i pravo svih građana u suvremenim demokracijama, koje omogućuje razvoj transparentne i otvorene javne vlasti, jača odgovornost javnog sektora, potiče korisnički orijentirano djelovanje javne uprave, suzbija korupciju i povećava legitimitet institucija i povjerenje građana u vlast.
 
-Nove tehnologije su omogućile izradu servisa kako bi se automatski dobili odgovori na ta pitanja. Velik broj podataka koji vam trebaju da odgovorite na ta pitanja su stvorena od strane javnih tijela. Međutim, često ti podaci nisu dostupni u obliku jednostavnom za korištenje. Ova knjiga govori o tome kako otključati potencijal službenih i ostalih podataka kako bi omogućili nove servise u svrhu poboljšanja života građana i poboljšanja rada vlade i društva.
+Kako bismo zajedno ostvarili navedene ciljeve, izradili smo e-knjižicu 'Ostvari svoje pravo na informaciju: Vodič za korisnike Zakona o pravu na pristup informacijama' kako bismo Vam na jednostavan, pristupačan i temeljit način prikazali osnovne modalitete ostvarivanja Vašeg Ustavom zajamčenog prava.
 
-Ideja pojma"otvoreni podaci" i konkretno pojam "otvoreni vladini podaci" - informacije, javne ili ostale, čiji su pristup i upotreba dostupni svima za bilo kakvu namjenu - je već u upotrebi nekoliko godina. 2009. godine, otvoreni podaci su se počeli pojavljivati u javnosti kako su razne vlade (kao što su SAD, Ujedinjeno Kraljevstvo, Kanada i Novi Zeland) najavljivale nove inicijative za "otvaranje" svojih javnih informacija.
+U tom smislu ovaj Vodič neizostavan je dio efikasne implementacije Zakona o pravu na pristup informacijama (NN 25/13, 85/15) koji detaljno razrađuje načine ostvarivanja prava građana na informaciju javnog karaktera i obveze tijela u svrhu ostvarivanja transparentnog i otvorenog rada. Međutim, kao i svaki zakon, on je korisnicima često kompliciran i nejasan. Stoga, svjesni brojnih problema s kojima se korisnici prava na pristup informacijama susreću svakodnevno u pokušajima da ostvare pristup informaciji, dobiju informacije za ponovnu uporabu ili sudjeluju u savjetovanjima s javnošću, ovim tekstom želimo pozitivno utjecati na širenje znanja i svijesti o pravu na pristup informacijama i pomoći korisnicima s ciljem što efikasnijeg i učinkovitijeg ostvarivanja prava na pristup informacijama. Konačno, efikasno korištenje prava na pristup informacijama pretpostavlja spremnost i obvezu tijela javne vlasti da informaciju pruži, ali i sposobnost korisnika da tu informaciju na pravilan način zatraži teadekvatno zaštiti svoje pravo, djelujući tako preventivno na buduće slučajeve mogućeg kršenja prava građana od strane tijela javne vlasti.
 
-Ova knjiga objašnjava osnovni koncept "otvorenih podataka", naročito u vezi s vladom. Objašnjava kako otvoreni podaci stvaraju vrijednost i kako mogu imati pozitivan utjecaj na mnoštvo različitih područja. Uz istraživanje pozadine otvorenih podataka, ovaj priručnik će vam objasniti na koji točno način proizvesti otvorene podatke.
+Ovaj Vodič nastao je u okviru projekta 'Izrada e-priručnika o pravu na pristup informacijama za službenike za informiranje, građane, medije i civilno društvo', uz potporu Britanskog veleposlanstva u Zagrebu, na čemu smo osobito zahvalni. Vodič je ujedno sastavni dio napora koji se u okviru Akcijskog plana za provedbu inicijative Partnerstvo za otvorenu vlast 2014-2016 i Akcijskog plana 2015-2016 uz Strategiju suzbijanja korupcije 2015-2020 ulažu u napredovanje postupanja tijela javne vlasti u Republici Hrvatskoj u smislu otvorenosti i transparentnosti, ali i edukacije korisnika – građana, udruga, medija i akademske zajednice o učinkovitom korištenju prava na pristup informacijama. 
+
+Nadamo se da će Vam ovaj Vodič pomoći da ostvarite svoje pravo na informaciju.
+
+Povjerenica za informiranje, 
+Anamarija Musa
 
 ## Ciljana publika
 
