@@ -46,11 +46,6 @@ contributors:
 
 supporters:
   -
-    name: Povjerenik za informiranje
-    logo: shuttleworth.png
-    footer_logo: shuttleworth-footer.png
-    url: http://www.pristupinfo.hr
-  -
     name: British Embassy Zagreb
     logo: shuttleworth.png
     footer_logo: shuttleworth-footer.png
@@ -59,7 +54,7 @@ supporters:
     name: Code for Croatia
     logo: od4d.png
     footer_logo: od4d-footer.png
-    url: http://codeforcroatia..org/
+    url: http://codeforcroatia.org/
 
 
 googleanalytics: UA-8271754-XXX
@@ -282,7 +277,14 @@ defaults:
       layout: page
   -
     scope:
-      path: "guide"
+      path: "vodic"
+    values:
+      lang: hr
+      layout: page
+      edit: true
+  -
+    scope:
+      path: "smjernice"
     values:
       lang: hr
       layout: page
@@ -297,17 +299,15 @@ defaults:
       edit: true
   -
     scope:
-      path: "value-stories"
-    values:
-      edit: true
-  -
-    scope:
       section: "terms"
     values:
       layout: page
       edit: true
 
 related_projects:
+  -
+      name: ImamoPravoZnati.org
+      link: https://imamopravoznati.org/
   -
       name: OpenGovernmentData.org
       link: http://opengovernmentdata.org/
