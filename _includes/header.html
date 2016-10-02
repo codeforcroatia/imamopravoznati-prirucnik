@@ -1,9 +1,10 @@
 {% assign vodic = site.meta.vodic %}
 {% assign glossary = site.meta.glossary %}
-{% assign value-stories = site.meta.value-stories %}
+{% assign smjernice = site.meta.smjernice %}
 {% assign resources = site.meta.resources %}
 {% assign contribute = site.meta.contribute %}
 {% assign vodic_entry_point = site.baseurl | append: '/' | append: vodic.label | append: '/' | append: page.lang | append: '/' | append: vodic.toc.entry_point | append: '/' %}
+{% assign smjernice_entry_point = site.baseurl | append: '/' | append: smjernice.label | append: '/' | append: page.lang | append: '/' | append: smjernice.toc.entry_point | append: '/' %}
 {% assign glossary_entry_point = site.baseurl | append: '/' | append: glossary.label | append: '/' | append: page.lang | append: '/' %}
 {% assign value-stories_entry_point = site.baseurl | append: '/' | append: value-stories.label | append: '/' | append: page.lang | append: '/' %}
 {% assign resources_entry_point = site.baseurl | append: '/' | append: resources.label | append: '/' %}
@@ -16,8 +17,8 @@
   {% assign active_section = site.meta['vodic'] %}
 {% elsif page.url contains 'glossary'%}
   {% assign active_section = site.meta['glossary'] %}
-{% elsif page.url contains 'value-stories'%}
-  {% assign active_section = site.meta['value-stories'] %}
+{% elsif page.url contains 'smjernice'%}
+  {% assign active_section = site.meta['smjernice'] %}
 {% endif %}
 
 <header class="site-header">
@@ -62,13 +63,43 @@
       </ul>
     </li>
 
-    <!-- start navigation for value stories section -->
+    <li {% if page.url == smjernice.toc.entry_point %}class="Selected"{% endif %}>
+      <a href="{{ vodic_entry_point }}">{{ smjernice.title }}</a>
+
+      <ul>
+
+        <!-- start navigation for smjernice section -->
+        {% for chapter in smjernice.toc.chapters %}
+        {% assign chapter_url = site.baseurl | append: '/' | append:  smjernice.label | append: '/' |  append: page.lang | append: '/' | append: chapter.slug | append: '/' %}
+        <li {% if page.url == chapter_url %}class="Selected"{% endif %}>
+          <a href="{{ chapter_url }}">{{ chapter.title }}</a>
+          {% if chapter.sections %}
+          <span class="subsections">
+            {% for section in chapter.sections %}
+            <a href="#{{ section.slug }}">{{ section.title }}</a>
+            {% endfor %}
+          </span>
+          {% endif %}
+        </li>
+        {% endfor %}
+
+        <!-- start navigation for glossary section -->
+        <li{% if page.url contains 'glossary' %} class="Selected"{% endif %}>
+          <a href="{{ glossary_entry_point }}">Rječnik</a>
+        </li>
+        <!-- end navigation for glossary section -->
+
+        <!-- end navigation for smjernice section -->
+      </ul>
+    </li>
+
+    <!-- start navigation for value stories section 
     <li{% if page.url contains 'value-stories' %} class="Selected"{% endif %}>
-      <a href="{{ value-stories_entry_point }}">Smjernice</a>
+      <a href="{{ smjernice_entry_point }}">Value stories</a>
       {% comment %}
       <ul>
         {% for story in site.pages %}
-        {% if story.section == 'value-stories' and story.lang == page.lang %}
+        {% if story.section == 'smjernice' and story.lang == page.lang %}
         <li{% if page.url == story.url %} class="Selected"{% endif %}>
           <a href="{{ story.url }}" title="{{ story.title }}">{{ story.title }}</a>
         </li>
@@ -76,7 +107,7 @@
         {% endfor %}
       </ul>
       {% endcomment %}
-    </li>
+    </li> -->
     <!-- end navigation for value stories section -->
 
     <!-- start navigation for resources section -->
