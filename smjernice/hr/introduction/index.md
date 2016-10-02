@@ -1,6 +1,6 @@
 ---
 redirect_from: /hr/introduction/index.html
-section: guide
+section: smjernice
 lang: hr
 title: Uvod
 ---

@@ -182,7 +182,7 @@ meta:
     languages:
       - hr
   guide:
-    label: guide
+    label: vodic
     output: true
     has_translation: true
     translate_link: true
@@ -199,6 +199,45 @@ meta:
         - following-up
         - events
         - glossary
+        - appendices
+      chapters:
+        - title: 'Predgovor'
+          slug: 'predgovor'
+          sections:
+            - title: 'Target Audience'
+              slug: 'target-audience'
+            - title: 'Credits'
+              slug: 'credits'
+        - title: 'Why Open Data?'
+          slug: 'why-open-data'
+        - title: 'What is Open Data?'
+          slug: 'what-is-open-data'
+        - title: 'How to Open Up Data'
+          slug: 'how-to-open-up-data'
+        - title: "So I've Opened Up Some Data, Now What? "
+          slug: 'following-up'
+        - title: "Make data social"
+          slug: 'events'
+        - title: 'Appendices'
+          slug: 'appendices'
+  smjernice:
+    label: smjernice
+    output: true
+    has_translation: true
+    translate_link: true
+    title: Smjernice
+    languages:
+      - hr
+    toc:
+      entry_point: 'predgovor'
+      order:
+        - predgovor
+        - why-open-data
+        - what-is-open-data
+        - how-to-open-up-data
+        - following-up
+        - events
+        - rjecnik
         - appendices
       chapters:
         - title: 'Predgovor'

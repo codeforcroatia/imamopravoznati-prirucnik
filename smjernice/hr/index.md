@@ -1,8 +1,8 @@
 ---
 redirect_from: /hr/index.html
-section: guide
+section: smjernice
 lang: hr
-title: Priručnik za otvorene podatke
+title: Smjernice za službenike za informiranje
 ---
 
 Ovaj priručnik sagledava legalne, društvene i tehničke aspekte otvorenih podataka. Namijenjen je svima, a posebice onima koji žele učiniti podatke otvorenima. Razmatra "zašto, što i kako" u vezi otvorenih podataka - zašto da budu otvoreni, što otvoreno znači, i kako "otvoriti" podatke.
