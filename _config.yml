@@ -71,8 +71,8 @@ supporters:
     url: http://od4d.net/
 
 
-googleanalytics: UA-8271754-28
-google_verification: U6RmQ0BoQ9f1Omog3Mnas-Yd1At38pTDZbM1AtnOpnc
+googleanalytics: UA-8271754-XXX
+google_verification: XXXXXXXXX
 
 # Build settings
 markdown: kramdown
@@ -142,7 +142,7 @@ languages:
     - 繁體中文
 
 toc:
-  - vodič
+  - priručnik
     - predgovor
     - why-open-data
     - what-is-open-data
@@ -186,7 +186,7 @@ meta:
     output: true
     has_translation: true
     translate_link: true
-    title: Guide
+    title: Priručnik
     languages:
       - hr
     toc:
