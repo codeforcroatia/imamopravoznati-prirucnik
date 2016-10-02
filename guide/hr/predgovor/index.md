@@ -15,42 +15,34 @@ Ovaj Vodič nastao je u okviru projekta 'Izrada e-priručnika o pravu na pristup
 
 Nadamo se da će Vam ovaj Vodič pomoći da ostvarite svoje pravo na informaciju.
 
-Povjerenica za informiranje, 
+Povjerenica za informiranje,
+
 Anamarija Musa
 
 ## Ciljana publika
 
 Ovaj priručnik ima široku publiku:
 
--   namijenjen je onima koji nikada nisu čuli za otvorene podatke i onima koji se smatraja ekspertima za podatke
+-   namijenjen je onima koji nikada nisu čuli za otvorene podatke i onima koji žele pristupiti podacima
 -   za državne službenike i aktiviste
 -   za novinare i istraživače
 -   za političare i programere
--   za podatkovne štrebere i one koji nikada nisu čuli za API - Application Programming Interface
 
-Većina trenutačno dostupnih informacija je usredotočena na podatke javnog sektora. Ipak, autor s vremenom i kako ono bude dopuštalo, namjerava proširiti ovo područje. Vaše sudjelovanje je dobrodošlo kako biste nam pomogli u toj nakani.
-
-Ovaj priručnik je namijenjen onima koji su tek upoznati ili nikad nisu čuli za ovu temu. Ako se susretnete s izrazom ili terminologijom koja vam je nepoznata, pogledajte pojmovnik i FAQ (Frequently Asked Question, odnosno, Često Postavljana Pitanja) koji se nalaze na kraju ovog priručnika.
+Ovaj priručnik pomoći će vam da saznate više o pravu na informiranje. Ako se susretnete s izrazom ili terminologijom koja vam je nepoznata, pogledajte pojmovnik i PIO (pitanja i odgovori) koji se nalaze na kraju ovog priručnika.
 
 ## Zasluge i autorska prava
 
 ### Autori
 
--   [Daniel Dietrich](http://ddie.me/)
--   [Jonathan Gray](http://jonathangray.org/)
--   [Tim McNamara](http://timmcnamara.co.nz)
--   [Antti Poikola](http://apoikola.wordpress.com/)
--   [Rufus Pollock](http://rufuspollock.org/)
--   [Julian Tait](http://www.littlestar.tv/)
--   [Ton Zijlstra](http://www.zylstra.org/)
+-   Anamarija Musa
+-   Ina Volmut
+-   Lucija Jadrijević
+-   Dubravka Bevandić
 
-### Korišteni izvori
+### Izdavač
 
--   Tehnički prijedlog kako je IATI proveden. "The IATI Technical Advisory Group led by Simon Parrish"
--   Otključavanje potencijala potpornih informacija *Rufus Pollock, Jonathan Gray, Simon Parrish, Jordan Hatcher*
--   Finski vodič autora *Antti Poikola*
--   Izvještaj s druge strane pristupa *Access Info and the Open Knowledge Foundation*
+Anamarija Musa, Povjerenik za informiranje
 
-### Ostali izvori
+### Ostale napomene
 
--   W3C Publishing Government Data (2009) <http://www.w3.org/TR/gov-data/>
+Publikacija je izrađena u okviru projekta "Izrada e-priručnika o pravu na pristup informacijama za službenike za informiranje, građane, medije i civilno društvo" uz potporu Britanskog veleposlanstva u Zagrebu.

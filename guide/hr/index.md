@@ -2,14 +2,16 @@
 redirect_from: /hr/index.html
 section: guide
 lang: hr
-title: Priručnik za otvorene podatke
+title: Priručnik za građane
 ---
 
-Ovaj priručnik sagledava legalne, društvene i tehničke aspekte otvorenih podataka. Namijenjen je svima, a posebice onima koji žele učiniti podatke otvorenima. Razmatra "zašto, što i kako" u vezi otvorenih podataka - zašto da budu otvoreni, što otvoreno znači, i kako "otvoriti" podatke.
+U svrhu poboljšanja primjene Zakona o pravu na pristup informacijama, uz potporu Britanskog veleposlanstva u Republici Hrvatskoj, Povjerenik za informiranje izradio je ovaj edukativni priručnik, koji predstavlja koristan alat za sve one koji žele ostvariti svoje pravo na pristup  informacijama.  
 
-Za početak, pogledajte [Introduction](introduction/). Navigirajte kroz izvještaj korištenjem sadržaja (vidite rubni stupac ili zaglavlje).
+Priručnik *Ostvari svoje pravo na informaciju: Vodič za korisnike Zakona o pravu na pristup informacijama* kreiran je  s ciljem da se građanima, udrugama i medijima približi zakonodavni okvir i modeli njegova učinkovitog korištenja, kao i sam kontekst prava na pristup informacijama, kako bi se pozitivno utjecalo na podizanje razine znanja i svijesti o pravu na pristup informacijama.
 
-Otvoreni smo za komentare u vezi teksta i kako budemo napredovali, uklopit ćemo vaše povratne informacije. Također, dobrodošli su svi doprinosi ili prijedlozi za dodatne dijelove i područja istraživanja.
+Za početak, pogledajte [predgovor](predgovor/) Povjerenice za informiranje. Navigirajte kroz priručnik korištenjem sadržaja (potražite sa strane ili u zaglavlju).
+
+Otvoreni smo za komentare u vezi teksta. Također, dobrodošli su svi prijedlozi za dodatne linkove u resursima.
 
 ## Sadržaj
 
