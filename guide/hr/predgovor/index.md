@@ -1,6 +1,6 @@
 ---
 redirect_from: /hr/predgovor/index.html
-section: guide
+section: priručnik
 lang: hr
 title: Predgovor
 ---
@@ -21,9 +21,10 @@ Anamarija Musa
 
 ## Ciljana publika
 
-Ovaj priručnik ima široku publiku:
+Ovaj priručnik ima široku publiku. Namjenjen je:
 
--   namijenjen je onima koji nikada nisu čuli za otvorene podatke i onima koji žele pristupiti podacima
+-   za one koji nikada nisu čuli za otvorene podatke
+-   za one koji žele pristupiti podacima
 -   za državne službenike i aktiviste
 -   za novinare i istraživače
 -   za političare i programere

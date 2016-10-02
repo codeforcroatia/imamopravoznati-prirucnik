@@ -1,6 +1,6 @@
 ---
 redirect_from: /hr/index.html
-section: guide
+section: priručnik
 lang: hr
 title: Priručnik za građane
 ---
