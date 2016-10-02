@@ -2,17 +2,17 @@
   <ul>
     {% if site.github_repo and page.edit %}
     <li class="edit tooltip-item">
-      Poboljšajte ovu stranicu
+      Improve this page
       
       <span class="tooltip">
-        <a href="https://github.com/{{ site.github_username }}/{{ site.github_repo }}/edit/gh-pages/{{page.path}}" class="github" rel="external">Uredi stranicu</a>
+        <a href="https://github.com/{{ site.github_username }}/{{ site.github_repo }}/edit/gh-pages/{{page.path}}" class="github" rel="external">Uredite stranicu</a>
         <a href="{{ "/contribute/" | prepend: site.baseurl }}" target="_blank">Pomoć i upute</a>
       </span>
     </li>
     {% endif %}
     {% if active_section.translate_link %}
     <li class="translate tooltip-item">
-      Prevedite ovu stranicu
+      Translate this page
       <span class="tooltip">
         <a href="{{ "/contribute/translate-guide" | prepend: site.baseurl }}" target="_blank">Upute za prevođenje</a>
       </span>
@@ -57,7 +57,7 @@
     </li>
     {% endif %}
     <li class="share tooltip-item">
-      Podijelite
+      Share
       
       <span class="tooltip">
         <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" class="facebook" rel="external">Podijelite na Facebooku</a>
@@ -66,7 +66,7 @@
     </li>
     {% if page.section == 'resources' %}
     <li class="add tooltip-item">
-      Dodaj resurs
+      Add a resource
       
       <span class="tooltip">
         <a href="{{ "/contribute/add-resource/" | prepend: site.baseurl }}" target="_blank">Pomoć i upute</a>
@@ -75,7 +75,7 @@
     {% endif %}
     {% if page.section == 'solutions-landing' %}
     <li class="add tooltip-item">
-      Dodaj rješenje
+      Add a solution
       
       <span class="tooltip">
         <a href="{{ "/contribute/" | prepend: site.baseurl }}" target="_blank">Pomoć i upute</a>
@@ -83,5 +83,5 @@
     </li>
     {% endif %}
   </ul>
-  
+
 </div>

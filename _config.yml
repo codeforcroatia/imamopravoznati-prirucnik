@@ -181,7 +181,7 @@ meta:
     title: Open Data Glossary
     languages:
       - hr
-  guide:
+  vodic:
     label: vodic
     output: true
     has_translation: true
