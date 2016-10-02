@@ -1,9 +1,9 @@
-{% assign guide = site.meta.guide %}
+{% assign vodic = site.meta.vodic %}
 {% assign glossary = site.meta.glossary %}
 {% assign value-stories = site.meta.value-stories %}
 {% assign resources = site.meta.resources %}
 {% assign contribute = site.meta.contribute %}
-{% assign guide_entry_point = site.baseurl | append: '/' | append: guide.label | append: '/' | append: page.lang | append: '/' | append: guide.toc.entry_point | append: '/' %}
+{% assign vodic_entry_point = site.baseurl | append: '/' | append: vodic.label | append: '/' | append: page.lang | append: '/' | append: vodic.toc.entry_point | append: '/' %}
 {% assign glossary_entry_point = site.baseurl | append: '/' | append: glossary.label | append: '/' | append: page.lang | append: '/' %}
 {% assign value-stories_entry_point = site.baseurl | append: '/' | append: value-stories.label | append: '/' | append: page.lang | append: '/' %}
 {% assign resources_entry_point = site.baseurl | append: '/' | append: resources.label | append: '/' %}
@@ -12,8 +12,8 @@
 
 {% assign url_parts = page.url | split: '/' %}
 
-{% if page.url contains 'guide'%}
-  {% assign active_section = site.meta['guide'] %}
+{% if page.url contains 'vodic'%}
+  {% assign active_section = site.meta['vodic'] %}
 {% elsif page.url contains 'glossary'%}
   {% assign active_section = site.meta['glossary'] %}
 {% elsif page.url contains 'value-stories'%}
@@ -32,14 +32,14 @@
       <a href="{{ site.baseurl }}/">Početak</a>
     </li>
 
-    <li {% if page.url == guide.toc.entry_point %}class="Selected"{% endif %}>
-      <a href="{{ guide_entry_point }}">{{ guide.title }}</a>
+    <li {% if page.url == vodic.toc.entry_point %}class="Selected"{% endif %}>
+      <a href="{{ vodic_entry_point }}">{{ vodic.title }}</a>
 
       <ul>
 
-        <!-- start navigation for guide section -->
-        {% for chapter in guide.toc.chapters %}
-        {% assign chapter_url = site.baseurl | append: '/' | append:  guide.label | append: '/' |  append: page.lang | append: '/' | append: chapter.slug | append: '/' %}
+        <!-- start navigation for vodic section -->
+        {% for chapter in vodic.toc.chapters %}
+        {% assign chapter_url = site.baseurl | append: '/' | append:  vodic.label | append: '/' |  append: page.lang | append: '/' | append: chapter.slug | append: '/' %}
         <li {% if page.url == chapter_url %}class="Selected"{% endif %}>
           <a href="{{ chapter_url }}">{{ chapter.title }}</a>
           {% if chapter.sections %}
@@ -58,7 +58,7 @@
         </li>
         <!-- end navigation for glossary section -->
 
-        <!-- end navigation for guide section -->
+        <!-- end navigation for vodic section -->
       </ul>
     </li>
 
