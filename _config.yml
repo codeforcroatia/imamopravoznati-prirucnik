@@ -184,6 +184,10 @@ meta:
         - ostvarivanje-prava-na-pristup-informacijama
         - odlucivanje-o-zahtjevu-za-pristup-informacijama
         - zastita-prava-na-pristup-informacijama
+        - pristup-informacijama-za-novinare
+        - korak-po-korak
+        - ponovna-uporaba-informacija
+        - savjetovanja-s-javnoscu
         - glossary
         - appendices
       chapters:
@@ -204,6 +208,14 @@ meta:
           slug: 'odlucivanje-o-zahtjevu-za-pristup-informacijama'
         - title: "Zaštita prava na pristup informacijama"
           slug: 'zastita-prava-na-pristup-informacijama'
+        - title: "Pristup informacijama za novinare"
+          slug: 'pristup-informacijama-za-novinare'
+        - title: "Korak po korak"
+          slug: 'korak-po-korak'
+        - title: "Ponovna uporaba informacija i otvoreni podaci"
+          slug: 'ponovna-uporaba-informacija'
+        - title: "Savjetovanja s javnošću"
+          slug: 'savjetovanja-s-javnoscu'
         - title: 'Appendices'
           slug: 'appendices'
   smjernice:

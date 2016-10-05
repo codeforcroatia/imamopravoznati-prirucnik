@@ -1,6 +1,6 @@
 ---
 redirect_from: /hr/ostvarivanje-prava-na-pristup-informacijama/index.html
-section: guide
+section: vodic
 lang: hr
 title: Kako mogu ostvariti pravo na pristup informacijama putem zahtjeva?
 ---
