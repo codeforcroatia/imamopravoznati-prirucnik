@@ -31,7 +31,7 @@ Otvoreni podaci su skupovi podataka pogodni za ponovnu uporabu u komercijalne i 
 
 Otvoreni podaci objavljuju se na Internet stranicama tijela javne vlasti i na portalima otvorenih podataka. Neki otvoreni podaci objavljeni su i na platformi [imamopravoznati.org](https://imamopravoznati.org), jer su ih drugi korisnici već tražili.
 
-Ako su informacije već dostupne javnosti u obliku aplikativnog rješenja (pretraživača i sl.), tijelo javne vlasti može omogućiti izvoz podataka u jedan od strojno-čitljivih oblika. Primjer izvoza podataka iz aplikacije možete naći u [[Popisu tijela javne vlasti](http://tjv.pristupinfo.hr) Povjerenika za informiranje i [Tražilici odluka i mišljenja - TOM](http://tom.pristupinfo.hr).
+Ako su informacije već dostupne javnosti u obliku aplikativnog rješenja (pretraživača i sl.), tijelo javne vlasti može omogućiti izvoz podataka u jedan od strojno-čitljivih oblika. Primjer izvoza podataka iz aplikacije možete naći u [Popisu tijela javne vlasti](http://tjv.pristupinfo.hr) Povjerenika za informiranje i [Tražilici odluka i mišljenja - TOM](http://tom.pristupinfo.hr).
 
 Otvoreni podaci u pravilu ne sadrže osobne podatke. Ukoliko su podaci zaštićeni Zakonom o zaštiti osobnih podataka, iste se ne smatra otvorenim podacima jer njihova objava nije dozvoljena.
 
