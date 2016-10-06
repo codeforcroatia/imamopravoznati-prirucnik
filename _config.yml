@@ -130,11 +130,15 @@ languages:
 toc:
   - priručnik
     - predgovor
-    - why-open-data
-    - what-is-open-data
-    - how-to-open-up-data
-    - following-up
-    - events
+    - pravo-na-pristup-informacijama
+    - proaktivna-objava-informacija
+    - ostvarivanje-prava-na-pristup-informacijama
+    - odlucivanje-o-zahtjevu-za-pristup-informacijama
+    - zastita-prava-na-pristup-informacijama
+    - pristup-informacijama-za-novinare
+    - korak-po-korak
+    - ponovna-uporaba-informacija
+    - savjetovanja-s-javnoscu
     - glossary
     - appendices
   - value-stories
@@ -230,10 +234,10 @@ meta:
       entry_point: 'predgovor'
       order:
         - predgovor
-        - why-open-data
-        - what-is-open-data
-        - how-to-open-up-data
-        - following-up
+        - obveze-tijela-javne-vlasti
+        - sluzbenik-za-informiranje
+        - propisi
+        - 
         - events
         - rjecnik
         - appendices
@@ -241,16 +245,16 @@ meta:
         - title: 'Predgovor'
           slug: 'predgovor'
           sections:
-            - title: 'Target Audience'
-              slug: 'target-audience'
-            - title: 'Credits'
-              slug: 'credits'
-        - title: 'Why Open Data?'
-          slug: 'why-open-data'
-        - title: 'What is Open Data?'
-          slug: 'what-is-open-data'
-        - title: 'How to Open Up Data'
-          slug: 'how-to-open-up-data'
+            - title: 'Ciljana publika'
+              slug: 'ciljana-publika'
+            - title: 'Zasluge i autorska prava'
+              slug: 'zasluge-i-autorska-prava'
+        - title: 'Obveze tijela javne vlasti'
+          slug: 'obveze-tijela-javne-vlasti'
+        - title: 'Službenik za informiranje'
+          slug: 'sluzbenik-za-informiranje'
+        - title: 'Propisi'
+          slug: 'propisi'
         - title: "So I've Opened Up Some Data, Now What? "
           slug: 'following-up'
         - title: "Make data social"
