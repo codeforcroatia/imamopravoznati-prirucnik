@@ -237,8 +237,9 @@ meta:
         - obveze-tijela-javne-vlasti
         - sluzbenik-za-informiranje
         - propisi
-        - 
-        - events
+        - pojmovi
+        - koraci-u-postupanju
+        - rjesavanje-zahtjeva
         - rjecnik
         - appendices
       chapters:
@@ -255,10 +256,12 @@ meta:
           slug: 'sluzbenik-za-informiranje'
         - title: 'Propisi'
           slug: 'propisi'
-        - title: "So I've Opened Up Some Data, Now What? "
-          slug: 'following-up'
-        - title: "Make data social"
-          slug: 'events'
+        - title: "Temeljni pojmovi"
+          slug: 'pojmovi'
+        - title: "Prethodni koraci u postupanju"
+          slug: 'koraci-u-postupanju'
+        - title: "Rješavanje zahtjeva"
+          slug: 'rjesavanje-zahtjeva'
         - title: 'Appendices'
           slug: 'appendices'
   contribute:

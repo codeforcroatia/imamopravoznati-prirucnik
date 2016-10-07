@@ -12,7 +12,7 @@ title: Ostvarivanje prava na pristup informacijama - korak po korak
 
 ## Korak 2: Podnošenje zahtjeva za pristup informacijama.
 
-- popunjavam zahtjev (tijelo javne vlasti, informacija, podnositelj) i šaljem ga poštom, e-poštom ili na drugi način (usmeno, telefonski; putem imamopravoznati.org)
+- popunjavam zahtjev (tijelo javne vlasti, informacija, podnositelj) i šaljem ga poštom, e-poštom ili na drugi način (usmeno, telefonski; putem [imamopravoznati.org](https://imamopravoznati.org))
 - zahtjev je ipak nepotpun i tijelo javne vlasti traži dopunu – dopunit ću zahtjev u roku od 5 dana (osim ako me tijelo traži da navedem svrhu za koju mi informacija treba ili preimenujem podnesak u 'zahtjev za pristup informacijama' - u tom slučaju upozoravam tijelo da to nisam dužan učiniti i obraćam se Povjereniku)
 - tijelo ne posjeduje informaciju, ali zna koje tijelo je posjeduje – tijelo me obavještava u roku od 8 dana da ono ne posjeduje informaciju i da je zahtjev ustupilo drugom tijelu - nastavljam postupak pred drugim tijelom
 - tijelo me obavještava da je informacija javno objavljena, da sam informaciju već dobio, a nije prošlo 90 dana da se ne primjenjuje Zakon o pravu na pristup informacijama, ili da se moj podnesak ne smatra zahtjevom za pristup informacijama – slažem se s tijelom i koristim javno objavljenu informaciju, ili čekam da protekne 90 dana, ili koristim druga pravna sredstva na koja me tijelo uputilo; ako se ne slažem s tijelom, mogu podnijeti prigovor čelniku tijela, a potom se žaliti Povjereniku za informiranje
