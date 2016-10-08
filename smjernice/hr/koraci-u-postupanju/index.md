@@ -97,10 +97,10 @@ Rok od 15 dana je kalendarski rok tako da se u taj rok računaju i neradni dani.
 
 Za službenika za informiranje 15 dana predstavlja krajnji rok za rješavanje zahtjeva. Međutim, ukoliko je u mogućnosti službenik za informiranje treba zahtjev riješiti što je moguće ranije te ne treba čekati s posljednjim danom roka za rješavanje zahtjeva. Ako u isto vrijeme bude zaprimljen zahtjev za istom informacijom od strane različitih korisnika, njihovi zahtjevi trebaju biti riješeni u isto vrijeme. Prema članku 22. stavku 1. Zakona o pravu na pristup informacijama rokovi za ostvarivanje prava na pristup informaciji mogu se produžiti za 15 dana, računajući od dana kad je tijelo javne vlasti trebalo odlučiti o zahtjevu za pristup informaciji u sljedećim slučajevima:
 
-− ako se informacija mora tražiti izvan sjedišta tijela javne vlasti,
-− ako se jednim zahtjevom traži veći broj različitih informacija, 
-− ako je to nužno da bi se osigurala potpunost i točnost tražene informacije, te 
-− ako je tijelo javne vlasti dužno provesti test razmjernosti i javnog interesa.
+-   ako se informacija mora tražiti izvan sjedišta tijela javne vlasti, 
+-   ako se jednim zahtjevom traži veći broj različitih informacija, 
+-   ako je to nužno da bi se osigurala potpunost i točnost tražene informacije, te 
+-   ako je tijelo javne vlasti dužno provesti test razmjernosti i javnog interesa.
 
 O produženju roka službenik za informiranje je obvezan obavijestiti podnositelja zahtjeva najkasnije u roku 8 dana, pri čemu treba navesti razloge zbog kojih se rješavanje zahtjeva produžava.
 

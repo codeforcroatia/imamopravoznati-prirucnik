@@ -32,3 +32,8 @@ Ako je određene informacije, registre ili baze podataka tijelo javne vlasti obj
 Ako to nije slučaj tijelo javne vlasti može naplatiti naknadu za ponovnu uporabu informacija sukladno Kriterijima za određivanje visine naknade stvarnih materijalnih troškova i troškova dostave informacije.
 
 S obzirom da se uskoro očekuje objava posebnog priručnika za ponovnu uporabu i otvorene podatke, u nastavku ukratko o pojedinim pitanjima ponovne uporabe.
+
+*[CSV]: Comma Seperated Values
+*[JSON]: JavaScript Object Notation
+*[XML]: Extensible Markup Language
+*[RDF]: Resource Description Framework

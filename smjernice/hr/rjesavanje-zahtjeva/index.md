@@ -50,9 +50,9 @@ Ako na osnovu podataka koji su navedeni u zahtjevu službenik za informiranje mo
 
 Pravilnikom o ustroju, sadržaju i načinu vođenja službenog upisnika o ostvarivanju prava na pristup informacijama i ponovnu uporabu informacija, u svrhu olakšavanja pristupu informacijama propisani su pomoćni obrasci, iz kojih je vidljivo koje podatke korisnik treba navesti u zahtjevu. To su sljedeći obrasci:
 
-* Zahtjev za pristup informacijama - Obrazac Broj 2 
-* Zahtjev za dopunu ili ispravak informacije - Obrazac Broj 3 
-* Zahtjev za ponovnu uporabu informacija - Obrazac Broj 4
+* Zahtjev za pristup informacijama - [Obrazac broj 2](/smjernice/hr/prilozi/obrasci/#obrazac-br-2)
+* Zahtjev za dopunu ili ispravak informacije - [Obrazac broj 3](/smjernice/hr/prilozi/obrasci/#obrazac-br-3)
+* Zahtjev za ponovnu uporabu informacija - [Obrazac broj 4](/smjernice/hr/prilozi/obrasci/#obrazac-br-4)
 
 Međutim, službenik za informiranje mora voditi računa o tome da urednost zahtjeva za pristup informacijama ne smije biti uvjetovana korištenjem pomoćnih obrazaca iz Pravilnika o ustroju, sadržaju i načinu vođenja službenog upisnika o ostvarivanju prava na pristup informacijama i ponovnu uporabu informacija.
 
@@ -198,8 +198,8 @@ Osim navedenog tijelo javne vlasti može odbiti zahtjev za pristup informacijama
 
 Tijela javne vlasti mogu ograničiti pristup informaciji ako postoje osnove sumnje da bi njezino objavljivanje:
 
-# onemogućilo učinkovito, neovisno i nepristrano vođenje sudskog, upravnog ili drugog pravno uređenog postupka, izvršenje sudske odluke ili kazne
-# onemogućilo rad tijela koja obavljaju upravni nadzor, inspekcijski nadzor, odnosno nadzor zakonitosti.
+1. onemogućilo učinkovito, neovisno i nepristrano vođenje sudskog, upravnog ili drugog pravno uređenog postupka, izvršenje sudske odluke ili kazne
+2. onemogućilo rad tijela koja obavljaju upravni nadzor, inspekcijski nadzor, odnosno nadzor zakonitosti.
 
 Tijela javne vlasti mogu ograničiti pristup informaciji ako je:
 
