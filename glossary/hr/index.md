@@ -17,7 +17,9 @@ Povezivost
 
 :   Povezivost označava mogućnost spajanja na internet, posebice na World Wide Web.
 
-BitTorrent BitTorrent je protokol za dijeljenje i prenošenje velikih podataka između računala koja sudjeluju u prijenosu. Umjesto preuzimanja podatka sa specifičnog izvora, BitTorrent omogućava korisnicima da preuzimaju podatke jedni od drugih.
+BitTorrent
+
+:   BitTorrent je protokol za dijeljenje i prenošenje velikih podataka između računala koja sudjeluju u prijenosu. Umjesto preuzimanja podatka sa specifičnog izvora, BitTorrent omogućava korisnicima da preuzimaju podatke jedni od drugih.
 
 DAP
 
@@ -123,8 +125,8 @@ Information Asset Register
 
 Open Government Data 
 
-:   Otvoreni podaci izdani od vlade. Ovo se obično smatra kao podaci prikupljeni tijekom obavljanja posla ili uobičajenih aktivnosti koje ne identificiraju pojedince ili narušavaju poslovnu osjetljivost. Otvoreni državni podaci su podskup 'Informacija Javnog Sektora', koji su šireg opsega. Za detalje vidi <http://opengovernmentdata.org>.
+:   Otvoreni podaci izdani od vlade. Ovo se obično smatra kao podaci prikupljeni tijekom obavljanja posla ili uobičajenih aktivnosti koje ne identificiraju pojedince ili narušavaju poslovnu osjetljivost. Otvoreni državni podaci su podskup 'Informacija javnog sektora', koji su šireg opsega. Za detalje vidi <http://opengovernmentdata.org>.
 
 Tab-separated values 
 
-:   Tab-odvojene vrijednosti (TOV) su vrlo čest oblik tekstualnog formata za dijeljenje tabličnih podataka. Format je izuzetno jednostavan i čitljiv strojevima.
+:   Tabom odvojene vrijednosti (TSV) su vrlo čest oblik tekstualnog formata za dijeljenje tabličnih podataka. Format je izuzetno jednostavan i čitljiv strojevima.
