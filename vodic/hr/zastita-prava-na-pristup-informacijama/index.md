@@ -17,11 +17,11 @@ Ukoliko Vas je tijelo obavijestilo da je informacija javno objavljena, da ste in
 
 ## Što ako tijelo javne vlasti ne reagira na moj zahtjev?
 
-Žalbu Povjereniku za informiranje možete podnijeti i kada tijelo javne vlasti ne odluči o Vašem zahtjevu u roku od 15 dana, odnosno u roku od ukupno 30 dana ako je produžilo  rok za odlučivanje. Situacija u kojoj tijelo javne vlasti nije uopće reagiralo na Vaš zahtjev ili odugovlači postupak, naziva se šutnjom uprave.
+Žalbu Povjereniku za informiranje možete podnijeti i kada tijelo javne vlasti ne odluči o Vašem zahtjevu u roku od 15 dana, odnosno u roku od ukupno 30 dana ako je produžilo rok za odlučivanje. Situacija u kojoj tijelo javne vlasti nije uopće reagiralo na Vaš zahtjev ili odugovlači postupak, naziva se šutnjom uprave.
 
 Preporučamo da prije podnošenja žalbe pričekate dan ili dva nakon isteka roka, zbog mogućnosti da Vam tijelo dostavi rješenje ili informaciju poštom.
 
-U slučaju da tijelo javne vlasti nije donijelo propisano rješenje kojim odbija ili odbacuje Vašzahtjev već Vas je samo neformalno obavijestilo o tome da Vam iz nekog razloga uskraćuje informaciju, inzistirajte na donošenju rješenja.
+U slučaju da tijelo javne vlasti nije donijelo propisano rješenje kojim odbija ili odbacuje Vaš zahtjev već Vas je samo neformalno obavijestilo o tome da Vam iz nekog razloga uskraćuje informaciju, inzistirajte na donošenju rješenja.
 
 ## Što treba sadržavati žalba i kako se podnosi?
 
@@ -31,7 +31,7 @@ U žalbi trebate navesti rješenje koje pobijate, naziv tijela javne vlasti koje
 
 Obrazac za podnošenje žalbe neka tijela objavljuju na svojim Internet stranicama, a možete ga uvijek pronaći na [službenim stranicama Povjerenika za informiranje](http://www.pristupinfo.hr/pravni-okvir/).
 
-Žalba se u pravilu podnosi putem tijela javne vlasti kojem ste se prvotno obratili sa zahtjevom za pristup informacijama. Ako žalbu podnesete neposredno Povjereniku za informiranje, uzmite u obzir da  se žalba prvo vraća tijelu javne vlasti na razmatranje, čime se produljuje postupak.
+Žalba se u pravilu podnosi putem tijela javne vlasti kojem ste se prvotno obratili sa zahtjevom za pristup informacijama. Ako žalbu podnesete neposredno Povjereniku za informiranje, uzmite u obzir da se žalba prvo vraća tijelu javne vlasti na razmatranje, čime se produljuje postupak.
 
 Preporučamo da tražite potvrdu o primitku žalbe.
 
@@ -41,7 +41,7 @@ Povjerenik za informiranje provodi postupak po žalbi (drugostupanjski postupak)
 
 Osnovni rok za rješavanje o žalbi je 30 dana.
 
-Rokovi su duži u dva slučaja: ako je za rješavanje potrebno ispitati ili provesti test razmjernosti i javnog interesa, tada je rok 60 dana; ako je potrebno tražiti mišljenje  Ureda Vijeća za nacionalnu sigurnost i radi se o klasificiranim informacijama, rok za rješavanje je 90 dana.
+Rokovi su duži u dva slučaja: ako je za rješavanje potrebno ispitati ili provesti test razmjernosti i javnog interesa, tada je rok 60 dana; ako je potrebno tražiti mišljenje Ureda Vijeća za nacionalnu sigurnost i radi se o klasificiranim informacijama, rok za rješavanje je 90 dana.
 
 Povjerenik dostavlja svoju odluku putem tijela javne vlasti od kojega je informacija zatražena.
 

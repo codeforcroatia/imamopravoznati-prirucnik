@@ -122,3 +122,6 @@ Ako smatrate da informacija pružena na temelju zahtjeva nije točna ili potpuna
 
 Tijelo javne vlasti obvezno je odlučiti o vašem zahtjevu za dopunu, odnosno ispravak informacije u roku od 15 dana od zaprimanja Vašeg zahtjeva. O odbijanju zahtjeva mora donijeti rješenje, na koje imate pravo žalbe.
 
+*[CD]: Compact Disc
+*[DVD]: Digital Versatile Disc
+*[USB]: Universal Serial Bus

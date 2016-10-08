@@ -5,7 +5,7 @@
       {% if site.publishers %}
         {% for publisher in site.publishers %}
           {% if publisher.footer_logo %}
-          <a href="{{ publisher.url }}" rel="external"><img src="{{ site.baseurl }}/img/{{ publisher.footer_logo }}" width="123" height="32" alt="{{ publisher.name }}"></a>
+          <a href="{{ publisher.url }}" rel="external"><img src="{{ site.baseurl }}/img/{{ publisher.footer_logo }}" width="65" height="32" alt="{{ publisher.name }}"></a>
           {% endif %}
         {% endfor %}
       {% endif %}
@@ -23,7 +23,7 @@
 
       {% if site.developers %}
       <div class="supporters">
-        <h6>Web izradili</h6>
+        <h6>Izrada weba</h6>
         {% for developer in site.developers %}
           {% if developer.footer_logo %}
           <a href="{{ developer.url }}" rel="external"><img src="{{ site.baseurl }}/img/supporters/{{ developer.footer_logo }}" alt="{{ developer.name }}"></a>

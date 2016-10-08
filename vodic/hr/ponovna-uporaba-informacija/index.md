@@ -85,3 +85,14 @@ U slučaju da tijelo javne vlasti odbije Vaš zahtjev za ponovnu uporabu informa
 Na žalbeni postupak primjenjuju se pravila koja vrijede i za postupak po žalbi radi uskrate prava na pristup informacijama. Protiv rješenja Povjerenika žalba nije dopuštena, ali se može pokrenuti upravni spor pred Visokim upravnim sudom Republike Hrvatske.
 
 Obrasce za podnošenje žalbe vezano uz ponovnu uporabu informacija možete pronaći na [internetskoj stranici Povjerenika za informiranje](http://www.pristupinfo.hr/pravni-okvir/).
+
+, , , , , , , 
+
+*[RDF]: Resource Description Framework 
+*[XML]: EXtensible Markup Language
+*[HTML]: HyperText Markup Language
+*[CSV]: Comma Separated Values
+*[TSV]: Tab Separated Values
+*[SDMX-ML]: Statistical Data and Metadata eXchange
+*[JSON]: JavaScript Object Notation
+*[ODF]: Open Document Format
