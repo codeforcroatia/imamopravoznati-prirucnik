@@ -58,6 +58,13 @@ supporters:
     footer_logo: codeforcroatia-footer.png
     url: http://codeforcroatia.org/
 
+developers:
+  -
+    name: Code for Croatia
+    logo: codeforcroatia.png
+    footer_logo: codeforcroatia-footer.png
+    url: http://codeforcroatia.org/
+
 publisher:
   -
     name: Povjerenik za informiranje

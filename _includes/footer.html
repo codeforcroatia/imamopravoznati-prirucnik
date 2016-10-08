@@ -6,10 +6,21 @@
 
       {% if site.supporters %}
       <div class="supporters">
-        <h6>Podržavaju</h6>
+        <h6>Uz podršku</h6>
         {% for supporter in site.supporters %}
           {% if supporter.footer_logo %}
           <a href="{{ supporter.url }}" rel="external"><img src="{{ site.baseurl }}/img/supporters/{{ supporter.footer_logo }}" alt="{{ supporter.name }}"></a>
+          {% endif %}
+        {% endfor %}
+      </div>
+      {% endif %}
+
+      {% if site.developers %}
+      <div class="supporters">
+        <h6>Web izradili</h6>
+        {% for developer in site.developers %}
+          {% if developer.footer_logo %}
+          <a href="{{ developer.url }}" rel="external"><img src="{{ site.baseurl }}/img/supporters/{{ developer.footer_logo }}" alt="{{ developer.name }}"></a>
           {% endif %}
         {% endfor %}
       </div>
@@ -18,9 +29,9 @@
 
     <div class="secondary">
       <ul>
-        <li><a href="{{ site.baseurl }}/contribute/">Pridonesi</a></li>
+        <!-- <li><a href="{{ site.baseurl }}/contribute/">Pridonesi</a></li>
         <li><a href="https://okfn.org/terms-of-use/" rel="external">Pravila korištenja</a></li>
-        <li><a href="https://okfn.org/privacy-policy/" rel="external">Politika privatnosti</a></li>
+        <li><a href="https://okfn.org/privacy-policy/" rel="external">Politika privatnosti</a></li> -->
         <li class="button"><a href="http://opendefinition.org/" rel="external"><img src="{{ site.baseurl }}/img/open-content.svg" width="80" height="15" alt="Open Content"/></a></li>
       </ul>
     </div>
@@ -41,7 +52,7 @@
         <li class="donate"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business={{ site.paypal }}&lc=GB&item_name={{ site.short_title }}%20Donation%20to%20Open%20Knowledge&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest" rel="external"><span>Donate</span></a></li>
         {% endif %}
         {% if site.contact %}
-        <li class="discuss"><a href="{{ site.contact }}" rel="external"><span>Kontakt</span></a></li>
+        <li class="discuss"><a href="{{ site.contact }}" rel="external"><span>Kontakt sa developerima</span></a></li>
         {% endif %}
         {% if site.github_repo %}
         <li class="source"><a href="https://github.com/{{ site.github_username }}/{{ site.github_repo }}" rel="external"><span class="text">Slobodni kod</span></a></li>
