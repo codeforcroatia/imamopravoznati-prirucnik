@@ -10,5 +10,3 @@ U svrhu poboljšanja primjene Zakona o pravu na pristup informacijama, uz potpor
 Priručnik *Ostvari svoje pravo na informaciju: Vodič za korisnike Zakona o pravu na pristup informacijama* kreiran je  s ciljem da se građanima, udrugama i medijima približi zakonodavni okvir i modeli njegova učinkovitog korištenja, kao i sam kontekst prava na pristup informacijama, kako bi se pozitivno utjecalo na podizanje razine znanja i svijesti o pravu na pristup informacijama.
 
 Za početak, pogledajte [predgovor](predgovor/) Povjerenice za informiranje. Navigirajte kroz priručnik korištenjem sadržaja (potražite sa strane ili u zaglavlju).
-
-Otvoreni smo za komentare u vezi teksta. Također, dobrodošli su svi prijedlozi za dodatne linkove u resursima.

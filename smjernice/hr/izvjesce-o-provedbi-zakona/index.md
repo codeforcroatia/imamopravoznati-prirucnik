@@ -13,3 +13,5 @@ Izvješće o provedbi Zakona dostavlja se putem aplikacije [Pristupinfo](http://
 Povjerenik podnosi Hrvatskome saboru izvješće o provedbi ovoga Zakona najkasnije do 31. ožujka tekuće godine za prethodnu godinu.
 
 Sastavni dio izvješća čine analiza i ocjena ostvarivanja prava na pristup informacijama i ponovne uporabe informacija u tijelima javne vlasti, podaci i analize o žalbenim predmetima, inspekcijskom nadzoru i počinjenim prekršajima zbog povrede prava na pristup informacijama i ponovnu uporabu informacija, te prijedlozi za otklanjanje nedostataka i nepravilnosti. Potpunost i točnost informacija koje tijela javne vlasti dostavljaju u sklopu godišnjeg izvješćivanja od presudne je važnosti za ocjenu kvalitete provedbe Zakona.
+
+Sljedeće: [Prilozi](../prilozi)

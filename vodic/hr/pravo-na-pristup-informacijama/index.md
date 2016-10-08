@@ -97,4 +97,4 @@ Ukoliko informacija nije objavljena na Internet stranici tijela javne vlasti, pr
 > Zahtjev za pristup informacijama možete uputiti pismenim (poštom ili elektroničkom poštom) ili usmenim putem (u tom slučaju službenik će sačiniti službenu bilješku), u
 skladu s uputama u ostatku ovoga Vodiča.
 
-Sljedeće: [Proaktivna objava informacija](proaktivna-objava-informacija)
+Sljedeće: [Proaktivna objava informacija](../proaktivna-objava-informacija)

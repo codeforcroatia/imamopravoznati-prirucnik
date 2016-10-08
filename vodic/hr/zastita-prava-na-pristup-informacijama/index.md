@@ -63,4 +63,4 @@ Protiv rješenja Povjerenika za informiranje ili u slučaju njegove šutnje, dak
 
 Protiv rješenja Povjerenika i tijelo javne vlasti može pokrenuti upravni spor. Visoki upravni sud mora odlučiti o tužbi u roku od 90 dana.
 
-Sljedeće: [Pristup informacijama za novinare](pristup-informacijama-za-novinare)
+Sljedeće: [Pristup informacijama za novinare](../pristup-informacijama-za-novinare)

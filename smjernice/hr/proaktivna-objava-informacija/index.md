@@ -40,3 +40,5 @@ Tijela javne vlasti su obvezna objavljivati sljedeće informacije:
 - odgovore na najčešće postavljena pitanja, o načinu podnošenja upita građana i medija, kao i ostale informacije (vijesti, priopćenja za javnost, podaci o aktivnostima), u svrhu informiranja javnosti o svom radu i ostvarivanju njihovih prava i izvršavanju obveza.
 
 Obaveza objave informacije ne primjenjuju se na informacije za koje postoje ograničenja prava na pristup prema odredbama ovoga Zakona. Primjerice, registar koji sadrži osobne podatke građana neće biti objavljen na internet stranici tijela, ali će sukladno točki 5. biti objavljeni njegovi metapodaci, uključujući informaciju o načinu pristupa.
+
+Sljedeće: [Dostava dokumenata u Središnji katalog](../dostava-dokumenata-u-sredisnji-katalog)

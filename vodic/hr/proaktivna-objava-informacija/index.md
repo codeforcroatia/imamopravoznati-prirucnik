@@ -65,4 +65,4 @@ Povjereniku za informiranje možete podnijeti predstavku na rad tijela javne vla
 
 Povjerenik odnosno službenici Ureda, osobito inspektori, razmotrit će predstavku te, ukoliko ocijene potrebnim, tražiti izvješće od tijela javne vlasti i uputiti ga da hitno otkloni utvrđene nepravilnosti i nezakonitosti. O radnjama poduzetima tijekom postupanja po predstavci, bit ćete obaviješteni.
 
-Sljedeće: [Ostvarivanje prava na pristup informacijama](ostvarivanje-prava-na-pristup-informacijama)
+Sljedeće: [Ostvarivanje prava na pristup informacijama](../ostvarivanje-prava-na-pristup-informacijama)

@@ -95,4 +95,4 @@ Obrasce za podnošenje žalbe vezano uz ponovnu uporabu informacija možete pron
 *[JSON]: JavaScript Object Notation
 *[ODF]: Open Document Format
 
-Sljedeće: [Savjetovanja s javnošću](savjetovanja-s-javnoscu)
+Sljedeće: [Savjetovanja s javnošću](../savjetovanja-s-javnoscu)

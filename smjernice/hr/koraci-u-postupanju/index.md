@@ -107,3 +107,5 @@ O produženju roka službenik za informiranje je obvezan obavijestiti podnositel
 Ističemo da su dosadašnja izvješća Povjerenika za informiranje utvrdila da se dvije trećine svih žalbi koje korisnici upute Povjereniku odnose na slučajeve šutnje uprave, dakle slučajeve kada tijelo javne vlasti ne odluči u zakonom propisanim rokovima. Stoga se odugovlačenje s postupkom pokazuje kao ključni problem provedbe Zakona o kojem svako tijelo javne vlasti i osobito službenik za informiranje trebaju povesti računa.
 
 > VAŽNO! - Potrebno je početi postupati po zahtjevu bez odlaganja.
+
+Sljedeće: [Rješavanje zahtjeva](../rjesavanje-zahtjeva)

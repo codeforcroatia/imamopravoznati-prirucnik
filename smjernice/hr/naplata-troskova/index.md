@@ -16,3 +16,5 @@ Treće pravilo se odnosi na naplatu informacija od strane tijela javne vlasti ko
 Četvrto pravilo se odnosi na knjižnice, muzeje i arhive koji mogu pored stvarnih materijalnih troškova naplatiti i naknadu ponovne uporabe informacija u skladu s objektivnim, transparentnim i povjerljivim kriterijima za izračun troškova.
 
 U Smjernicama o prioritetnim skupovima podataka, licencama i naplati troškova Europske komisije su detaljnije pojašnjeni određeni elementi za izračun troškova što može predstavljati tijelima javne vlasti okvir prilikom izračunavanja troškova. Zbog specifičnosti odredbi o naplati je izuzetno važno da su rješenja koja se donose povodom zahtjeva za ponovnu uporabu informacija podložna preispitivanju u žalbenom postupku od strane Povjerenika za informiranje.
+
+Sljedeće: [Proaktivna objava informacija](../proaktivna-objava-informacija)

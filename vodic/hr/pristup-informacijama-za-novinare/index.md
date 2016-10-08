@@ -49,4 +49,4 @@ Ako ste zatražili informaciju prema Zakonu o medijima, a pristup Vam nije omogu
 
 Ako Vam je rješenjem uskraćen pristup informacijama prema Zakonu o pravu na pristup informacijama možete u roku od 15 dana podnijeti žalbu Povjereniku za informiranje. Isto možete učiniti ako tijelo ne odgovori na postavljeni zahtjev u roku.
 
-Sljedeće: [Ostvarivanje prava na pristup informacijama - korak po korak](korak-po-korak)
+Sljedeće: [Ostvarivanje prava na pristup informacijama - korak po korak](../korak-po-korak)

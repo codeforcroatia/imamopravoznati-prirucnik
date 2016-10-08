@@ -88,4 +88,4 @@ Stoga uzmite u obzir potrebu da Vaš zahtjev bude jasan i potpun, da ne sadrži 
 
 > Zatražite od službenika za informiranje u tijelu javne vlasti da potvrdi primitak Vašeg zahtjeva za pristup informacijama, osobito ako ste ga podnijeli putem elektroničke pošte. Dokaz o slanju zahtjeva bit će koristan u slučaju žalbenog postupka.
 
-Sljedeće: [Odlučivanje o zahtjevu za pristup informacijama](odlucivanje-o-zahtjevu-za-pristup-informacijama)
+Sljedeće: [Odlučivanje o zahtjevu za pristup informacijama](../odlucivanje-o-zahtjevu-za-pristup-informacijama)

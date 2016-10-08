@@ -24,9 +24,3 @@ U Priručniku su u pojedinim poglavljima opisane pojedine zakonske obveze tijela
 Prilikom rješavanja zahtjeva za pristup informacijama i ponovnu uporabu informacija službenike za informiranje upućujemo na praćenje upravne i sudske prakse u ovom području koja je omogućena putem [Tražilice odluka i mišljenja](http://tom.pristupinfo.hr) Povjerenika za informiranje.
 
 Za početak, pogledajte [predgovor](predgovor/) Povjerenice za informiranje. Navigirajte kroz priručnik korištenjem sadržaja (potražite sa strane ili u zaglavlju).
-
-Otvoreni smo za komentare u vezi teksta. Također, dobrodošli su svi prijedlozi za dodatne linkove u resursima.
-
-## Sadržaj
-
-{% include toc.html %}

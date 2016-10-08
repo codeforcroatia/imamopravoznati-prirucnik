@@ -14,3 +14,5 @@ Visoki upravni sud Republike Hrvatske rješenjem dostavlja tužbu tužitelja te 
 S obzirom da Povjerenik za informiranje tijelu javne vlasti vraća spis predmeta po okončanju žalbenog postupka, uz obavijest o pokrenutom upravnom sporu će zatražiti od tijela javne vlasti da dostavi spis predmeta. Nakon okončanja upravnog spora, Visoki upravni sud Republike Hrvatske uz odluku, vraća spis predmeta Povjereniku za informiranje, koji zatim vraća spis predmeta tijelu javne vlasti i obavještava ga o ishodu upravnog spora.
 
 Kada je upravni spor pokrenulo tijelo javne vlasti, u slučaju potvrđivanja odluke Povjerenika za informiranje kojim je naloženo omogućavanje pristupa informacijama, po izvršnosti rješenja Povjerenika za informiranje, tijelo javne vlasti je u obvezi korisniku dostaviti zatraženu informaciju. U protivnom se odgovorna osoba u tijelu javne vlasti (čelnik tijela ili službenik za informiranje) izlaže prekršajnoj odgovornosti.
+
+Sljedeće: [Ponovna uporaba informacija](../ponovna-uporaba-informacija)

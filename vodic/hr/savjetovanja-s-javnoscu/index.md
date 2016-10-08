@@ -58,4 +58,4 @@ Povjerenik odnosno službenici Ureda, osobito inspektori, razmotrit će predstav
 
 Čak i ako u konkretnom slučaju propis ili akt bude donesen usprkos povrede odredbe o savjetovanju s javnošću, ukazivanje na nepravilnosti i moguće sankcioniranje tijela javne vlasti djeluje preventivno na buduće slučajeve mogućeg kršenja odredbe o savjetovanjima.
 
-Sljedeće: [Prilozi](appendices)
+Sljedeće: [Prilozi](../prilozi)

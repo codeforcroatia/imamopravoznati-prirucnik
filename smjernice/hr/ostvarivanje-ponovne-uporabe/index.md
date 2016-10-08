@@ -19,3 +19,5 @@ Ova odredba će sigurno predstavljati izazov za sve sudionike u postupku rješav
 Imajući u vidu ovu odredbu, u budućem radu će tijela javne vlasti trebati predvidjeti da prilikom stvaranja nove baze podataka ili izmjene postojećih uključe i mogućnost izvoza tih podataka u strojno čitljive oblike, a primjer takvog rješenja je Popis tijela javne vlasti – podatke iz baze moguće je pretraživati putem aplikacije, ali i izvesti u strojno čitljiv (CSV) oblik koji omogućava korištenje svih odnosno odabranih podataka na različite načine.
 
 *[CSV]: Comma Separated Values
+
+Sljedeće: [Uskrata ponovne uporabe informacija](../uskrata-ponovne-uporabe)

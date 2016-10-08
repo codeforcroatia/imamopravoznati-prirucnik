@@ -66,3 +66,5 @@ Povjerenik za informiranje
 Odgovorna osoba
 
 :   Odgovorna osoba u smislu Zakona je osoba u tijelu javne vlasti čije je činjenje ili nečinjenje dovelo do povrede Zakona.
+
+Sljedeće: [Prethodni koraci u postupanju](../koraci-u-postupanju)

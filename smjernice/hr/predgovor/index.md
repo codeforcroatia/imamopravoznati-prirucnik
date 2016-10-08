@@ -42,3 +42,5 @@ Anamarija Musa, Povjerenik za informiranje
 ### Ostale napomene
 
 Publikacija je izrađena u okviru projekta *Izrada e-priručnika o pravu na pristup informacijama za službenike za informiranje, građane, medije i civilno društvo* uz potporu Britanskog veleposlanstva u Zagrebu.
+
+Sljedeće: [Obveze tijela javne vlasti](../obveze-tijela-javne-vlasti)

@@ -291,3 +291,5 @@ Tijelo javne vlasti obvezno je donijeti rješenje o odbijanju zahtjeva ako utvrd
 
 *[CD]: Compact Disc
 *[DVD]: Digital Versatile Disc
+
+Sljedeće: [Žalidbeni postupak](../zalidbeni-postupak)

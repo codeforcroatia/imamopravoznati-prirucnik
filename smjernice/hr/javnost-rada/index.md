@@ -20,4 +20,6 @@ Javost rada prvenstveno je namijenjena za širu javnost koja želi izvršiti nep
 
 Međutim, ukoliko se djelokrug rada nekih stručnih tijela odnosi na obavljanje stručnih pitanja kojima se ne odlučuje o temama značajnima za javnost, ciljana skupina je zainteresirana javnost u smislu zaposlenika, članova, korisnika, što istodobno ne isključuje sudjelovanje opće javnosti. 
 
-Javnost rada treba promatrati zajedno sa člankom 10. stavkom 1. točkom 12. Zakona o pravu na pristup informacijama koji propisuje da su tijela javne vlasti obvezna na internetskim stranicama na lako pretraživ način i u strojno čitljivom obliku objavljivati zaključke sa službenih sjednica tijela javne vlasti i službene dokumente usvojene na tim sjednicama te informacije o radu formalnih radnih tijela iz njihove nadležnosti na kojima se odlučuje o pravima i interesima korisnika. 
+Javnost rada treba promatrati zajedno sa člankom 10. stavkom 1. točkom 12. Zakona o pravu na pristup informacijama koji propisuje da su tijela javne vlasti obvezna na internetskim stranicama na lako pretraživ način i u strojno čitljivom obliku objavljivati zaključke sa službenih sjednica tijela javne vlasti i službene dokumente usvojene na tim sjednicama te informacije o radu formalnih radnih tijela iz njihove nadležnosti na kojima se odlučuje o pravima i interesima korisnika.
+
+Sljedeće: [Izvješće o provedbi Zakona](../izvjesce-o-provedbi-zakona)

@@ -126,4 +126,4 @@ Tijelo javne vlasti obvezno je odlučiti o vašem zahtjevu za dopunu, odnosno is
 *[DVD]: Digital Versatile Disc
 *[USB]: Universal Serial Bus
 
-Sljedeće: [Zaštita prava na pristup informacijama](zastita-prava-na-pristup-informacijama)
+Sljedeće: [Zaštita prava na pristup informacijama](../zastita-prava-na-pristup-informacijama)

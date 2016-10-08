@@ -43,3 +43,5 @@ S obzirom da dokumentacija savjetovanja s javnošću predstavlja važnu dokument
 Na kraju, kada se radi o podzakonskim propisima i općim aktima, kao i planskim dokumentima, valja napomenuti da akti interne primjene kojima se ne utječe na interese korisnika nisu predmet savjetovanja, ali je preporučljivo provesti savjetovanje unutar tijela (npr. pravilnik o radu, godišnji plan rada i sl.). 
 
 > VAŽNO! Donijeti plan savjetovanja i redovito ga ažurirati! Provoditi savjetovanja za sve propise, kao i opće akte i dokumente kada se njima utječe na interese korisnika!
+
+Sljedeće: [Osiguravanje javnosti tijela javne vlasti](../javnost-rada)

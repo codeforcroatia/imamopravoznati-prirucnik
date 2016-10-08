@@ -37,3 +37,5 @@ S obzirom da se uskoro očekuje objava posebnog priručnika za ponovnu uporabu i
 *[JSON]: JavaScript Object Notation
 *[XML]: Extensible Markup Language
 *[RDF]: Resource Description Framework
+
+Sljedeće: [Ostvarivanje ponovne uporabe](../ostvarivanje-ponovne-uporabe)

@@ -40,3 +40,5 @@ Pravilnikom o sadržaju i načinu vođenja evidencije isključivih prava na pono
 Prilikom primjene Zakona o pravu na pristup informacijama službenici za informiranje u tijelima javne vlasti primjenjuju i postupovne zakone kao što su Zakon o općem upravnom postupku (NN 47/09) i druge procesne zakone te zakone koji uređuju organizacijske oblike u sustavu državne uprave, lokalne i područne (regionalne) samouprave te javnih ustanova i trgovačkih društava. Osim toga trebaju primjenjivati i posebne zakone kojima se uređuju osobni podaci, klasificirane informacije, poslovna i profesionalna tajna, porezna tajna, međunarodne informacije i dr.
 
 Kako bi lakše i jednostavnije mogli doći do propisa koji su neophodni za provedbu Zakona o pravu na pristup informacijama upućujemo službenike za informiranje na [internetsku stranicu Povjerenika za informiranje](http://www.pristupinfo.hr/pravni-okvir/), te prilog ovog Priručnika, s poveznicama na propise.
+
+Sljedeće: [Temeljni pojmovi](../pojmovi)

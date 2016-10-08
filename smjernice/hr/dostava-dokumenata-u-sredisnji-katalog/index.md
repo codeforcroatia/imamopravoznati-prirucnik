@@ -42,3 +42,5 @@ Digitalni informacijsko-dokumentacijski ured Vlade Republike Hrvatske osigurava 
 Dostavljeni dokumenti u elektroničkom obliku čuvaju se na način koji ih osigurava od neovlaštenog pristupa, brisanja, mijenjanja ili gubitka u skladu s važećim propisima o mjerama informacijske sigurnosti.
 
 Više obavijesti o Središnjem katalogu službenih dokumenta Republike Hrvatske, uputama i drugim korisnim informacijama mogu se pronaći na internetskoj stranici [digured.hr](http://www.digured.hr).
+
+Sljedeće: [Provedba savjetovanja s javnošću](../provedba-savjetovanja)

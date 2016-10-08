@@ -17,3 +17,5 @@ Obveze tijela javne vlasti su sljedeće:
 - vođenje službenog upisnik (čl.14.)
 - omogućavanje pristupa informacijama i ponovne uporabe informacija na zahtjev korisnika (čl.14.-34.) 
 - suradnja s Povjerenikom za informiranje i izvještavanje o provedbi Zakona (čl.60.)
+
+Sljedeće: [Službenik za informiranje](../sluzbenik-za-informiranje)

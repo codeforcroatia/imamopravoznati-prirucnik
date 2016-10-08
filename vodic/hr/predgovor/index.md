@@ -52,4 +52,4 @@ Anamarija Musa, Povjerenik za informiranje
 
 Publikacija je izrađena u okviru projekta *Izrada e-priručnika o pravu na pristup informacijama za službenike za informiranje, građane, medije i civilno društvo* uz potporu Britanskog veleposlanstva u Zagrebu.
 
-Sljedeće: [Pravo na pristup informacijama](pravo-na-pristup-informacijama)
+Sljedeće: [Pravo na pristup informacijama](../pravo-na-pristup-informacijama)
