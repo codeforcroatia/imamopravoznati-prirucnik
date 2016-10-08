@@ -8,10 +8,16 @@ title: Credits
 <div class="credits">
 
   <h1>{{ page.title }}</h1>
-  <h2>{{ site.title }} was produced by</h2>
-  <a href="https://okfn.org/" rel="external"><img src="//a.okfn.org/img/oki/standard-rgb-667x687.png" width="178" height="183" alt="Open Knowledge International"></a>
+  <h2>{{ site.title }} je djelo</h2>
+  {% if site.publishers %}
+        {% for publisher in site.publishers %}
+          {% if publisher.footer_logo %}
+          <a href="{{ publisher.url }}" rel="external"><img src="{{ site.baseurl }}/img/{{ publisher.logo }}" width="178" alt="{{ publisher.name }}"></a>
+          {% endif %}
+        {% endfor %}
+      {% endif %}
 {% if site.supporters %}
-  <h2>with support from</h2>
+  <h2>uz podršku</h2>
   <ul class="supporters">
   {% for supporter in site.supporters %}
     {% if supporter.logo %}
@@ -27,7 +33,7 @@ title: Credits
   {% assign authorstring = authors | remove: '@@#' | split: '@@' %}
 
 {% if authorstring %}
-  <h2>Contributing authors</h2>
+  <h2>Autori</h2>
   {% assign authorslist = authorstring[1] %}
 
   {% for a in authorstring %}
@@ -54,8 +60,21 @@ title: Credits
   </ul>
 {% endif %}
 
+{% if site.developers %}
+  <h2>web izrada</h2>
+  <ul class="supporters">
+  {% for developer in site.developers %}
+    {% if developer.logo %}
+    <li>
+      <a href="{{ developer.url }}" rel="external"><img src="{{ site.baseurl }}/img/supporters/{{ developer.logo }}" alt="{{ developer.name }}"></a>
+    </li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+{% endif %}
+
 {% if site.devs %}
-  <h2>Contributing coders</h2>
+  <h2>Programeri</h2>
   <ul>
   {% for dev in site.devs %}
     <li><a {% if dev.github %} href="https://github.com/{{ dev.github }}" rel="external"{% endif %}>{{ dev.name }}</a></li>
