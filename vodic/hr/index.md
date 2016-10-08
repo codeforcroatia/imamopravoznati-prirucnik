@@ -12,7 +12,3 @@ Priručnik *Ostvari svoje pravo na informaciju: Vodič za korisnike Zakona o pra
 Za početak, pogledajte [predgovor](predgovor/) Povjerenice za informiranje. Navigirajte kroz priručnik korištenjem sadržaja (potražite sa strane ili u zaglavlju).
 
 Otvoreni smo za komentare u vezi teksta. Također, dobrodošli su svi prijedlozi za dodatne linkove u resursima.
-
-## Sadržaj
-
-{% include toc.html %}

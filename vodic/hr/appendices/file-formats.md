@@ -2,10 +2,10 @@
 redirect_from: /hr/appendices/index.html
 section: guide
 lang: hr
-title: Formati datoteka
+title: Oblici podataka
 ---
 
-## Pregled formata datoteka
+## Oblici podataka
 
 ### JSON
 

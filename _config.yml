@@ -249,7 +249,7 @@ meta:
           slug: 'ponovna-uporaba-informacija'
         - title: "Savjetovanja s javnošću"
           slug: 'savjetovanja-s-javnoscu'
-        - title: 'Appendices'
+        - title: 'Prilozi'
           slug: 'appendices'
   smjernice:
     label: smjernice

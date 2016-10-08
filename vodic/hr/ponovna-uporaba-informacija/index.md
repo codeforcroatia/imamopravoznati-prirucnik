@@ -86,8 +86,6 @@ Na žalbeni postupak primjenjuju se pravila koja vrijede i za postupak po žalbi
 
 Obrasce za podnošenje žalbe vezano uz ponovnu uporabu informacija možete pronaći na [internetskoj stranici Povjerenika za informiranje](http://www.pristupinfo.hr/pravni-okvir/).
 
-, , , , , , , 
-
 *[RDF]: Resource Description Framework 
 *[XML]: EXtensible Markup Language
 *[HTML]: HyperText Markup Language
@@ -96,3 +94,5 @@ Obrasce za podnošenje žalbe vezano uz ponovnu uporabu informacija možete pron
 *[SDMX-ML]: Statistical Data and Metadata eXchange
 *[JSON]: JavaScript Object Notation
 *[ODF]: Open Document Format
+
+Sljedeće: [Savjetovanja s javnošću](savjetovanja-s-javnoscu)

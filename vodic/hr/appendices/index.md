@@ -1,9 +1,15 @@
 ---
 redirect_from: /hr/appendices/index.html
-section: guide
+section: vodic
 lang: hr
-title: Dodaci
+title: Prilozi
 ---
 
--   [Formati datoteka](file-formats.html)
--   [What Legal Rights are there in Databases](what-legal-ip-rights-are-there-in-databases.html)
+## Preuzmite PDF ovog priručnika
+
+-   [Ostvari svoje pravo na informaciju: Vodič za korisnike Zakona o pravu na pristup informacijama (objavljeno 28.09.2016.)](https://app.box.com/s/3czih5bmdvfrehtjf5wuzo37acdm6dik)
+
+## Ostali prilozi
+
+-   [Oblici podataka](file-formats)
+-   [Zakonska prava u podacima (bazama podataka)](what-legal-ip-rights-are-there-in-databases)

@@ -2,7 +2,7 @@
 redirect_from: /hr/appendices/index.html
 section: guide
 lang: hr
-title: Koja su zakonska (IP) prava u podacima (bazama podataka)
+title: Koja su zakonska prava u podacima (bazama podataka)
 ---
 
 Kada govorimo o podacima (bazama podataka) prvo trebamo razlučiti strukturu od sadržaja baze podataka (kada koristimo riječ 'podaci', mislimo na sadržaj same baze podataka.). Strukturni elementi sadržavaju stvari poput imena polja i modela namijenjenog podacima, odnosno organizaciju tih polja i njihovu međusobnu povezanost.

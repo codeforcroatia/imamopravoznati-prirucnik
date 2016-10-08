@@ -62,3 +62,5 @@ U slučaju da niste pravovremeno izjavili žalbu Povjerenik za informiranje će 
 Protiv rješenja Povjerenika za informiranje ili u slučaju njegove šutnje, dakle ako ne odluči o Vašoj žalbi u navedenim rokovima, možete pokrenuti upravni spor pred Visokim upravnim sudom Republike Hrvatske.
 
 Protiv rješenja Povjerenika i tijelo javne vlasti može pokrenuti upravni spor. Visoki upravni sud mora odlučiti o tužbi u roku od 90 dana.
+
+Sljedeće: [Pristup informacijama za novinare](pristup-informacijama-za-novinare)

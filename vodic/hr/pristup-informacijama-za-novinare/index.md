@@ -48,3 +48,5 @@ Osmo, ako ste informaciju dobili temeljem Zakona o pravu na pristup informacijam
 Ako ste zatražili informaciju prema Zakonu o medijima, a pristup Vam nije omogućen, možete na pisano obrazloženje glasnogovornika koje Vam je dostavio u roku od 3 dana uputiti prigovor čelniku tijela, a zatim  u slučaju da Vaš prigovor ne bude usvojen, tužbu upravnom sudu nadležnom prema sjedištu tijela javne vlasti, a radi ocjene zakonitosti postupanja javnopravnog tijela.
 
 Ako Vam je rješenjem uskraćen pristup informacijama prema Zakonu o pravu na pristup informacijama možete u roku od 15 dana podnijeti žalbu Povjereniku za informiranje. Isto možete učiniti ako tijelo ne odgovori na postavljeni zahtjev u roku.
+
+Sljedeće: [Ostvarivanje prava na pristup informacijama - korak po korak](korak-po-korak)

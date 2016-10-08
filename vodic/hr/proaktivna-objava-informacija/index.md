@@ -64,3 +64,5 @@ Katalog sadrži zakone i druge propise, opće akte,  godišnje planove, programe
 Povjereniku za informiranje možete podnijeti predstavku na rad tijela javne vlasti ako uočite nepravilnosti  u primjeni Zakona o pravu na pristup informacijama, uključujući neobjavljivanje informacija za koje postoji obaveza objavljivanja na Internetu.
 
 Povjerenik odnosno službenici Ureda, osobito inspektori, razmotrit će predstavku te, ukoliko ocijene potrebnim, tražiti izvješće od tijela javne vlasti i uputiti ga da hitno otkloni utvrđene nepravilnosti i nezakonitosti. O radnjama poduzetima tijekom postupanja po predstavci, bit ćete obaviješteni.
+
+Sljedeće: [Ostvarivanje prava na pristup informacijama](ostvarivanje-prava-na-pristup-informacijama)

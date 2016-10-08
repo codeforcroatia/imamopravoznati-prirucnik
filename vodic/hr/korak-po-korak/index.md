@@ -45,3 +45,5 @@ title: Ostvarivanje prava na pristup informacijama - korak po korak
 - pred Visokim upravnim sudom RH vodi se upravni spor kojeg sam pokrenuo protiv odluke Povjerenika 
 - Sud je roku od 90 dana odlučio da sam u pravu - postupak pred Povjerenikom se ponavlja, vraćam se na jedan od koraka pod 4, a možda i 3
 - Sud je potvrdio odluku Povjerenika - mogu se složiti da tijelo javne vlasti, Povjerenik i Sud misle drugačije od mene, a mogu se pod određenim uvjetima obratiti i Vrhovnom sudu 
+
+Sljedeće: [Ponovna uporaba informacija](ponovna-uporaba-informacija)
