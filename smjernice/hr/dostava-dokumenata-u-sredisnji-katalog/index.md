@@ -17,18 +17,18 @@ Nisu sva tijela obveznici primjene Zakona o pravu na pristup informacijama ujedn
 
 Tijela javne vlasti, koja su obveznici dostave dokumenta u Središnji katalog, dužna su bez odgađanja, a najkasnije u roku od 5 dana od dana izrade dokumenta odnosno njegove objave na internetu, dostaviti sljedeće službene dokumente:
 
-# Zakone i ostale propise koje donose.
-# Opće akte i odluke koje donose, kojima se utječe na interese korisnika, s razlozima za njihovo donošenje.
-# Godišnje planove, programe, strategije, upute, izvještaje o radu, financijska izvješća i druge odgovarajuće dokumente koji se odnose na područje rada tijela javne vlasti:
- * planove/programe (periodični plan/program rada, financijski plan, akcijski plan/program, operativni plan/program, strateški plan, plan upravljanja, plan javne nabave, plan zapošljavanja, program razvoja),
- * strategije (strategija razvoja, strateški okvir, nacionalna strategija, lokalna strategija, posebne strategije),
- * izvješća (periodično izvješće o radu, financijsko izvješće, statističko izvješće, tematsko izvješće, projektno izvješće, godišnjak),
- * smjernice (strateška smjernica, programska smjernica, preporuka, kodeks),
- * glasila (Narodne novine, službena glasila jedinica lokalne i područne samouprave, stručna glasila, informativna glasila),
- * službena stajališta (deklaracija, rezolucija, povelja, govor/izjava predsjednika Republike/predsjednika Vlade),
- * stručne podloge/analize (stručna uputa, stručna studija, istraživanje, priručnik, projektni dokument, elaborat, procjena),
- * promotivne dokumente (vodič, tekst u obliku letka i/ili brošure, katalog),
- * prijevode službenih dokumenata Europske unije i međunarodnih organizacija.
+1. Zakone i ostale propise koje donose.
+2. Opće akte i odluke koje donose, kojima se utječe na interese korisnika, s razlozima za njihovo donošenje.
+3. Godišnje planove, programe, strategije, upute, izvještaje o radu, financijska izvješća i druge odgovarajuće dokumente koji se odnose na područje rada tijela javne vlasti:
+   * planove/programe (periodični plan/program rada, financijski plan, akcijski plan/program, operativni plan/program, strateški plan, plan upravljanja, plan javne nabave, plan zapošljavanja, program razvoja),
+   * strategije (strategija razvoja, strateški okvir, nacionalna strategija, lokalna strategija, posebne strategije),
+   * izvješća (periodično izvješće o radu, financijsko izvješće, statističko izvješće, tematsko izvješće, projektno izvješće, godišnjak),
+   * smjernice (strateška smjernica, programska smjernica, preporuka, kodeks),
+   * glasila (Narodne novine, službena glasila jedinica lokalne i područne samouprave, stručna glasila, informativna glasila),
+   * službena stajališta (deklaracija, rezolucija, povelja, govor/izjava predsjednika Republike/predsjednika Vlade),
+   * stručne podloge/analize (stručna uputa, stručna studija, istraživanje, priručnik, projektni dokument, elaborat, procjena),
+   * promotivne dokumente (vodič, tekst u obliku letka i/ili brošure, katalog),
+   * prijevode službenih dokumenata Europske unije i međunarodnih organizacija.
 
 Iznimno, ako su dokumenti objavljeni u službenom glasilu Republike Hrvatske (Narodnim novinama) odnosno službenom glasilu jedinice lokalne i područne (regionalne) samouprave, smatraju se uredno dostavljenima u Središnji katalog.
 

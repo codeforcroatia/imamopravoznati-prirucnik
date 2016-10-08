@@ -22,7 +22,8 @@ U Službeni upisnik se evidentiraju svi podneseni zahtjevi i način rješavanja 
 - informacija koja se traži (podaci koji su važni za prepoznavanje informacije),
 - odluka o zahtjevu (usvojen, djelomično usvojen, odbijen, odbačen, ustupljen, obustavljen postupak, izdana obavijest), uz navođenje pravne osnove,
 - odluka prvostupanjskog tijela po žalbi,
-- odluka drugostupanjskog tijela po žalbi,ü odluka Visokog upravnog suda Republike Hrvatske po tužbi,
+- odluka drugostupanjskog tijela po žalbi,
+- odluka Visokog upravnog suda Republike Hrvatske po tužbi,
 - visina ostvarene naknade iz članka 19. Zakona o pravu na pristup informacijama,
 - napomena.
 
@@ -287,3 +288,6 @@ Rok za rješavanje zahtjeva za dopunu ili ispravak informacije je 15 dana a sam 
 Ako korisniku nije bila pružena informacija te se utvrdi da nema zakonskih ograničenja, omogućit će se korisniku pristup informaciji. Ako se utvrdi da postoje zakonska ograničenja tada će se kao i za zahtjev za pristup informacijama, provesti test razmjernosti i javnog interesa i donijeti odluka.
 
 Tijelo javne vlasti obvezno je donijeti rješenje o odbijanju zahtjeva ako utvrdi da nema osnove za dopunu ili ispravak dane informacije.
+
+*[CD]: Compact Disc
+*[DVD]: Digital Versatile Disc

@@ -5,7 +5,7 @@ lang: hr
 title: Izvješće o provedbi Zakona o pravu na pristup informacijama
 ---
 
-Sva tijela javne vlasti, dužna su surađivati s Povjerenikom za informiranje te su dužna Povjereniku dostaviti izvješće o provedbi Zakona o pravu na pristup informacijama za prethodnu godinu najkasnije do 31. siječnja tekuće godine, što je propisano člankom 60.stavkom 2. Zakona o pravu na pristup informacijama.
+Sva tijela javne vlasti, dužna su surađivati s Povjerenikom za informiranje te su dužna Povjereniku dostaviti izvješće o provedbi Zakona o pravu na pristup informacijama za prethodnu godinu najkasnije do 31. siječnja tekuće godine, što je propisano člankom 60. stavkom 2. Zakona o pravu na pristup informacijama.
 
 Povjerenik za informiranje do 31. prosinca tekuće godine određuje i na internetskim stanicama Povjerenika objavljuje sadržaj izvješća i način njegove dostave. 
 Izvješće o provedbi Zakona dostavlja se putem aplikacije [Pristupinfo](http://izvjesca.pristupinfo.hr/), kojoj je pristup osiguran jedinstvenim korisničkim imenom i lozinkom. Aplikacija je dostupna na internetskoj stranici Povjerenika za informiranje te istekom roka za dostvu izvješća o provedbi Zakona o pravu na pristup informacijama više nije moguće unositi izvješća. Međutim, pogodnost ove aplikacije je da tijela javne vlasti putem ove aplikacije tijekom godine mogu ažurirati i mijenjati podatke o svom tijelu ili službeniku za informiranje.
