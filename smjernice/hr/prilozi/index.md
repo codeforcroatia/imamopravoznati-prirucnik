@@ -16,3 +16,7 @@ title: Prilozi
    * [Obrazac br. 6 - Rješenje o odbacivanju zahtjeva - nepotpun ili nerazumljiv zahtjev](/smjernice/hr/prilozi/obrasci/#obrazac-br-6)
    * [Obrazac br. 7 - Ustupanje zahtjeva](/smjernice/hr/prilozi/obrasci/#obrazac-br-7)
    * [Obrazac br. 8 - Odluka o osnivanju radne grupe za provedbu testa razmjernosti i javnog interesa](/smjernice/hr/prilozi/obrasci/#obrazac-br-8)
+
+## Preuzmite ovaj priručnik u PDF-u
+
+-   [Primjena Zakona o pravu na pristup informacijama – Priručnik za službenike za informiranje u tijelima javne vlasti (objavljeno 28.09.2016.)](https://app.box.com/s/r7yr13jvinnbisc18ebk40fpmtv9eigw)

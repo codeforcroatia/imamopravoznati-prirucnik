@@ -9,10 +9,10 @@ Savjetovanje s javnošću dio je pristupa informacijama, koji je uređen članko
 
 Savjetovanje s javnošću nisu obvezna provoditi sva tijela javne vlasti već samo sljedeća tijela:
 
-−   tijela državne uprave, 
-−   druga državna tijela, 
-−   jedinice lokalne i područne (regionalne) samouprave i 
-−   pravne osobe s javnim ovlastima.
+−  tijela državne uprave, 
+−  druga državna tijela, 
+−  jedinice lokalne i područne (regionalne) samouprave i 
+−  pravne osobe s javnim ovlastima.
 
 Navedena tijela javne vlasti dužna su provoditi savjetovanje s javnošću pri donošenju zakona i općih akata kojima utječu na interese građana i pravnih osoba, kao i pri usvajanju strateških i planskih dokumenata. Zakonom o pravu na pristup informacijama je određeno da su to ključna tijela koja donose zakone ili druge propise koji su značajni za javnost, a osobito je značajno da su i nadalje uključene i jedinice lokalne i područne (regionalne) samouprave, s obzirom na akte koje donose kao i pravne osobe s javnim ovlastima, s obzirom da ujedno utječu na interese korisnika. 
 
@@ -22,10 +22,10 @@ Tijela javne vlasti dužna su donijeti i na svojoj internetskoj stranici objavit
 
 Plan savjetovanja mora sadržavati sljedeće sastavne dijelove: 
 
-−   naziv propisa, općeg akta ili dokumenta za koji se provodi savjetovanje, 
-−   očekivano vrijeme njegova donošenja ili usvajanja, 
-−   okvirno vrijeme provedbe internetskog savjetovanja, te 
-−   druge predviđene načine na koje se namjerava provesti savjetovanje, kao što su javne rasprave, distribucija nacrta propisa i dr.
+−  naziv propisa, općeg akta ili dokumenta za koji se provodi savjetovanje, 
+−  očekivano vrijeme njegova donošenja ili usvajanja, 
+−  okvirno vrijeme provedbe internetskog savjetovanja, te 
+−  druge predviđene načine na koje se namjerava provesti savjetovanje, kao što su javne rasprave, distribucija nacrta propisa i dr.
 
 Mjesto savjetovanja je posebno određeno za tijela državne uprave koja savjetovanje s javnošću moraju provoditi preko [središnjeg državnog internetskog portala za savjetovanja s javnošću](https://esavjetovanja.gov.hr/).
 

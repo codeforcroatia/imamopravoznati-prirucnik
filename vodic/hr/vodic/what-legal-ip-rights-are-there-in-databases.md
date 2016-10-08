@@ -1,6 +1,6 @@
 ---
-redirect_from: /hr/appendices/index.html
-section: guide
+redirect_from: /hr/prilozi/index.html
+section: vodic
 lang: hr
 title: Koja su zakonska prava u podacima (bazama podataka)
 ---

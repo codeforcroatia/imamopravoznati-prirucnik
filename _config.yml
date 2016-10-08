@@ -148,7 +148,7 @@ toc:
     - ponovna-uporaba-informacija
     - savjetovanja-s-javnoscu
     - glossary
-    - appendices
+    - prilozi
   - smjernice
     - predgovor
     - obveze-tijela-javne-vlasti
@@ -169,7 +169,7 @@ toc:
     - provedba-savjetovanja
     - javnost-rada
     - izvjesce-o-provedbi-zakona
-    - rjecnik
+    - glossary
     - prilozi
   - resources
   - credits
@@ -197,7 +197,7 @@ meta:
     output: true
     has_translation: true
     translate_link: true
-    title: Open Data Glossary
+    title: Rječnik otvorenih podataka
     languages:
       - hr
   vodic:
@@ -222,7 +222,7 @@ meta:
         - ponovna-uporaba-informacija
         - savjetovanja-s-javnoscu
         - glossary
-        - appendices
+        - prilozi
       chapters:
         - title: 'Predgovor'
           slug: 'predgovor'
@@ -281,7 +281,7 @@ meta:
         - provedba-savjetovanja
         - javnost-rada
         - izvjesce-o-provedbi-zakona
-        - rjecnik
+        - glossary
         - prilozi
       chapters:
         - title: 'Predgovor'
