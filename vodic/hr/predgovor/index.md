@@ -19,8 +19,6 @@ Povjerenica za informiranje
 
 Anamarija Musa
 
-# Ostvari svoje pravo na informaciju: Vodič za korisnike Zakona o pravu na pristup informacijama
-
 ## Ciljana publika
 
 Ovaj priručnik ima široku publiku. Namjenjen je:

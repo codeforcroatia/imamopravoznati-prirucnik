@@ -5,6 +5,10 @@ lang: hr
 title: Smjernice za službenike za informiranje
 ---
 
+## Primjena Zakona o pravu na pristup informacijama
+
+### Priručnik za službenike za informiranje u tijelima javne vlasti
+
 Pravo na pristup informacijama je pravo građana koje je zajamčeno međunarodnim i domaćim dokumentima, čije ostvarenje obuhvaća obvezu tijela javne vlasti da objavljuje informacije neovisno o postavljenom zahtjevu (tzv. proaktivni način) te mogućnost pristupa informacijama  putem zahtjeva korisnika (tzv. reaktivni način). Osim toga predstavlja izuzetno važan alat za postizanje transparentnosti rada i odlučivanja tijela javne vlasti na svim razinama, jačanje odgovornosti i suzbijanja korupcije.
 
 S pravom na pristup informacijama usko je povezana ponovna uporaba informacija koja predstavlja nadogradnju prava na pristup informacijama budući da informacije koje su u posjedu tijela javne vlasti moraju  biti dostupne, u određenom formatu i biti određene kvalitete, prije nego ih se može ponovno uporabiti za neku drugu svrhu od one za koju su izvorno nastale. Ponovna uporaba informacija je nastala kao rezultat potrebe za iskorištavanjem gospodarskih i drugih potencijala informacija koje tijela javne vlasti prikupljaju i obrađuju u okviru određenog djelokruga ili posla koji se uobičajeno smatra javnim poslom.
