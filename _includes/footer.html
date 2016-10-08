@@ -2,7 +2,9 @@
 
   <div>
     <div class="primary">
+      {% if site.publisher %}
       <a href="{{ publisher.url }}" rel="external"><img src="{{ site.baseurl }}/img/{{ publisher.footer_logo }}" width="123" height="32" alt="{{ publisher.name }}"></a>
+      {% endif %}
 
       {% if site.supporters %}
       <div class="supporters">
