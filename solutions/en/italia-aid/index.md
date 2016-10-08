@@ -18,6 +18,7 @@ cost:
 problem: International Aid & Transparency
 ---
 ##The problem
+
 Throughout the late twentieth and early twenty first century the lack of transparency surrounding international aid has created three primary issues. 
 
 1. International aid, while a catalyst for economic development and a necessity in times of crisis is, due to its opaqueness, often a source of corruption on the side of receiving governments, donor countries, intergovernmental, and non-governmental organizations. 
@@ -27,6 +28,7 @@ Throughout the late twentieth and early twenty first century the lack of transpa
 The status quo of international aid data has, for a variety of reasons, been that of intransparency. Recipient countries haven’t had the infrastructure and or strong enough democratic institutions to disclose the where, when and how aid money was being spent. The International Aid Transparency Initiative provides a technical publishing framework for international aid data.
 
 ##The solution
+
 As a consequence of digital technologies, it is cheaper for citizens and donor countries to monitor receiving countries. Open data greatly reduces the cost of transparency and transferability of international aid data. While open data is hardly a panacea for international aid’s negative effects, it does undoubtedly encourage a visibility to international aid that is unprecedented.   
 
 [Open Date Italia](http://openaid.esteri.it) is a portal that publishes all of the aid funds that it has donated over the past 10 years. All data is certified and published by the Organization for Economic Development and Cooperation.

@@ -26,6 +26,12 @@ edit: true
       {% endfor %}
       </ul>
     </div>
+    {% else %}
+    <div class="author">
+      <ul>
+        <li>&nbsp</li>
+      </ul>
+    </div>
     {% endif %}
 
     {% include languages.html %}
