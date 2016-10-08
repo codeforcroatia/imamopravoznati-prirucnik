@@ -12,6 +12,8 @@ github_username:  codeforcroatia
 github_repo:  ppi-prirucnik
 paypal: 
 contact: http://diskurs.open.hr/
+logo: povjerenik-za-informiranje.png
+footer_logo: povjerenik-za-informiranje-footer.png
 
 gems:
   - jekyll-redirect-from
@@ -47,15 +49,21 @@ contributors:
 supporters:
   -
     name: British Embassy Zagreb
-    logo: shuttleworth.png
-    footer_logo: shuttleworth-footer.png
+    logo: british-embassy-zag.png
+    footer_logo: british-embassy-zag-footer.png
     url: https://www.gov.uk/government/world/organisations/british-embassy-zagreb
   -
     name: Code for Croatia
-    logo: od4d.png
-    footer_logo: od4d-footer.png
+    logo: codeforcroatia.png
+    footer_logo: codeforcroatia-footer.png
     url: http://codeforcroatia.org/
 
+publisher:
+  -
+    name: Povjerenik za informiranje
+    logo: povjerenik-za-informiranje.png
+    footer_logo: povjerenik-za-informiranje-footer.png
+    url: http://www.pristupinfo.hr
 
 googleanalytics: UA-8271754-XXX
 google_verification: XXXXXXXXX
@@ -141,7 +149,28 @@ toc:
     - savjetovanja-s-javnoscu
     - glossary
     - appendices
-  - value-stories
+  - smjernice
+    - predgovor
+    - obveze-tijela-javne-vlasti
+    - sluzbenik-za-informiranje
+    - propisi
+    - pojmovi
+    - koraci-u-postupanju
+    - rjesavanje-zahtjeva
+    - zalidbeni-postupak
+    - upravni-spor
+    - ponovna-uporaba-informacija
+    - ostvarivanje-ponovne-uporabe
+    - uskrata-ponovne-uporabe
+    - uvjeti-za-ponovnu-uporabu
+    - naplata-troskova
+    - proaktivna-objava-informacija
+    - dostava-dokumenata-u-sredisnji-katalog
+    - provedba-savjetovanja
+    - javnost-rada
+    - izvjesce-o-provedbi-zakona
+    - rjecnik
+    - prilozi
   - resources
   - credits
 
@@ -150,7 +179,7 @@ meta:
     label: resources
     output: true
     has_translation: false
-    title: Open Data Resources
+    title: Detaljnije o otvorenim podacima
     filters:
       - Topic
       - Language
