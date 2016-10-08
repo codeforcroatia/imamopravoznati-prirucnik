@@ -11,7 +11,7 @@ Službenici za informiranje u tijelima javne vlasti ključne su karike u ostvari
 
 Iz tih razloga, a vodeći se brojnim upitima, praksom i edukacijskim programima koje redovito provodimo za službenike za informiranje kako bismo osigurali primjenu Zakona i olakšali njih ov rad, pripremili smo e-publikaciju "Primjena Zakona o pravu na pristup informacijama: Priručnik za službenika za informiranje u tijelima javne vlasti." Priručnik je namijenjen službenicima za informiranje u tijelima javne vlasti kao praktična pomoć prilikom rješavanja zahtjeva za pristup informacijama i ponovnu uporabu informacija te ispunjavanju ostalih obveza temeljem Zakona o pravu na pristup informacijama.
 
-Priručnik je nastao je u okviru projekta "Izrada e-priručnika o pravu na pristup informacijama za službenike za informiranje, građane, medije i civilno društvo," uz potporu Britanskog veleposlanstva u Zagrebu, na čemu smo osobito zahvalni. Priručnik je ujedno sastavni dio napora koji se u okviru Akcijskog plana za provedbu inicijative Partnerstvo za otvorenu vlast 2014-2016 i Akcijskog plana 2015-2016 uz Strategiju suzbijanja korupcije 2015-2020 ulažu u napredovanje postupanja tijela javne vlasti u Republici Hrvatskoj u smislu otvorenosti i transparentnosti, kao i edukaciji korisnika prava na pristup informacijama.
+Priručnik je nastao je u okviru projekta *Izrada e-priručnika o pravu na pristup informacijama za službenike za informiranje, građane, medije i civilno društvo,* uz potporu Britanskog veleposlanstva u Zagrebu, na čemu smo osobito zahvalni. Priručnik je ujedno sastavni dio napora koji se u okviru Akcijskog plana za provedbu inicijative Partnerstvo za otvorenu vlast 2014-2016 i Akcijskog plana 2015-2016 uz Strategiju suzbijanja korupcije 2015-2020 ulažu u napredovanje postupanja tijela javne vlasti u Republici Hrvatskoj u smislu otvorenosti i transparentnosti, kao i edukaciji korisnika prava na pristup informacijama.
 
 Nadamo se da će Vam Priručnik u svakodnevnom radu biti u pomoći u obavljanju Vaših zadaća.
 
@@ -30,14 +30,15 @@ Ovaj priručnik namjenjen je za:
 
 ### Autori
 
+-   Dubravka Bevandić
 -   Anamarija Musa
--   TBD?
--   TBD?
 
 ### Izdavač
 
-Anamarija Musa, Povjerenik za informiranje, 2016.
+Primjena Zakona o pravu na pristup informacijama: **Priručnik za službenike za informiranje u tijelima javne vlasti, Zagreb, 2016.**
+
+Anamarija Musa, Povjerenik za informiranje
 
 ### Ostale napomene
 
-Publikacija je izrađena u okviru projekta "Izrada e-priručnika o pravu na pristup informacijama za službenike za informiranje, građane, medije i civilno društvo" uz potporu Britanskog veleposlanstva u Zagrebu.
+Publikacija je izrađena u okviru projekta *Izrada e-priručnika o pravu na pristup informacijama za službenike za informiranje, građane, medije i civilno društvo* uz potporu Britanskog veleposlanstva u Zagrebu.

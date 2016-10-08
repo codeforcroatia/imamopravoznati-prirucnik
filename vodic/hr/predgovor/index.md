@@ -19,7 +19,7 @@ Povjerenica za informiranje,
 
 Anamarija Musa
 
-# Ostvari svoje pravo na informaciju: Vodič za korisnike Zakona o pravu na pristup informacijama, Zagreb, 2016.
+# Ostvari svoje pravo na informaciju: Vodič za korisnike Zakona o pravu na pristup informacijama
 
 ## Ciljana publika
 
@@ -43,6 +43,8 @@ Ovaj priručnik pomoći će vam da saznate više o pravu na informiranje. Ako se
 -   Dubravka Bevandić
 
 ### Izdavač
+
+Ostvari svoje pravo na informaciju: **Vodič za korisnike Zakona o pravu na pristup informacijama, Zagreb, 2016.**
 
 Anamarija Musa, Povjerenik za informiranje
 

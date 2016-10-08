@@ -208,7 +208,7 @@ meta:
           slug: 'proaktivna-objava-informacija'
         - title: 'Ostvarivanje prava na pristup informacijama'
           slug: 'ostvarivanje-prava-na-pristup-informacijama'
-        - title: "Odlučivanje o zahtjevu za pristup informacijama"
+        - title: "Odlučivanje o zahtjevu"
           slug: 'odlucivanje-o-zahtjevu-za-pristup-informacijama'
         - title: "Zaštita prava na pristup informacijama"
           slug: 'zastita-prava-na-pristup-informacijama'
@@ -216,7 +216,7 @@ meta:
           slug: 'pristup-informacijama-za-novinare'
         - title: "Korak po korak"
           slug: 'korak-po-korak'
-        - title: "Ponovna uporaba informacija i otvoreni podaci"
+        - title: "Ponovna uporaba informacija"
           slug: 'ponovna-uporaba-informacija'
         - title: "Savjetovanja s javnošću"
           slug: 'savjetovanja-s-javnoscu'
@@ -240,8 +240,20 @@ meta:
         - pojmovi
         - koraci-u-postupanju
         - rjesavanje-zahtjeva
+        - zalidbeni-postupak
+        - upravni-spor
+        - ponovna-uporaba-informacija
+        - ostvarivanje-ponovne-uporabe
+        - uskrata-ponovne-uporabe
+        - uvjeti-za-ponovnu-uporabu
+        - naplata-troskova
+        - proaktivna-objava-informacija
+        - dostava-dokumenata-u-sredisnji-katalog
+        - provedba-savjetovanja
+        - javnost-rada
+        - izvjesce-o-provedbi-zakona
         - rjecnik
-        - appendices
+        - prilozi
       chapters:
         - title: 'Predgovor'
           slug: 'predgovor'
@@ -262,8 +274,32 @@ meta:
           slug: 'koraci-u-postupanju'
         - title: "Rješavanje zahtjeva"
           slug: 'rjesavanje-zahtjeva'
-        - title: 'Appendices'
-          slug: 'appendices'
+        - title: "Žalidbeni postupak"
+          slug: 'zalidbeni-postupak'
+        - title: "Upravni spor"
+          slug: 'upravni-spor'
+        - title: "Ponovna uporaba informacija"
+          slug: 'ponovna-uporaba-informacija'
+        - title: "Ostvarivanje ponovne uporabe"
+          slug: 'ostvarivanje-ponovne-uporabe'
+        - title: "Uskrata ponovne uporabe informacija"
+          slug: 'uskrata-ponovne-uporabe'
+        - title: "Uvjeti za ponovnu uporabu informacija"
+          slug: 'uvjeti-za-ponovnu-uporabu'
+        - title: "Naplata troškova"
+          slug: 'naplata-troskova'
+        - title: "Proaktivna objava informacija"
+          slug: 'proaktivna-objava-informacija'
+        - title: "Dostava dokumenata u Središnji katalog"
+          slug: 'dostava-dokumenata-u-sredisnji-katalog'
+        - title: "Provedba savjetovanja s javnošću"
+          slug: 'provedba-savjetovanja'
+        - title: "Osiguravanje javnosti tijela javne vlasti"
+          slug: 'javnost-rada'
+        - title: "Izvješće o provedbi Zakona"
+          slug: 'izvjesce-o-provedbi-zakona'
+        - title: 'Prilozi'
+          slug: 'prilozi'
   contribute:
     label: contribute
     output: true
