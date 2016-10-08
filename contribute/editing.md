@@ -2,8 +2,6 @@
 section: contribute
 lang: en
 title: Editing a page
-authors:
- - Sam Smith
 ---
 
 <p class="lead">If you haven't done so already, the first thing you need to do is head over to <a href="https://github.com/" rel="external">Github</a> and create your free account.</p>

@@ -1,8 +1,6 @@
 ---
 section: contribute
 title: Adding a resource to the library
-authors:
- - Mor Rubinstein
 lang: en
 ---
 

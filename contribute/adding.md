@@ -2,8 +2,6 @@
 section: contribute
 lang: en
 title: Adding a page
-authors:
- - Sam Smith
 ---
 
 <p class="lead">Most of what you need to know to add a new page is covered under '<a href="{{ "/contribute/editing/" | prepend: site.baseurl }}" rel="external">Editing a page</a>', so make sure you have first read through that section.</p>

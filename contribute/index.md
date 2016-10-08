@@ -1,8 +1,6 @@
 ---
 section: contribute
 title: Contributing to the handbook
-authors:
- - Sam Smith
 lang: en
 ---
 

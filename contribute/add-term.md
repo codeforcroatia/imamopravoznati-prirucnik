@@ -2,8 +2,6 @@
 section: contribute
 lang: en
 title: Adding a term to the glossary
-authors:
- - Mor Rubinstein
 ---
 
 <p class="lead">Each glossary (meaning, each translated instance of the glossary), has three components:</p>

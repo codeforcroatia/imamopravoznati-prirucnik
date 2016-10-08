@@ -2,8 +2,6 @@
 section: contribute
 lang: en
 title: Translating the glossary
-authors:
- - Mor Rubinstein
 ---
 
 ## What's new in the glossary

@@ -2,8 +2,6 @@
 section: contribute
 lang: en
 title: Translating the guide
-authors:
- - Mor Rubinstein
 ---
 
 <p class="lead">Translating the guide is easy, no need to any other software, all you need is a github account!</p>
