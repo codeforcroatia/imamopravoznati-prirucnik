@@ -205,7 +205,7 @@ meta:
     output: true
     has_translation: true
     translate_link: true
-    title: Priručnik
+    title: Vodič za građane
     languages:
       - hr
     toc:
@@ -256,7 +256,7 @@ meta:
     output: true
     has_translation: true
     translate_link: true
-    title: Smjernice
+    title: Priručnik za službenike
     languages:
       - hr
     toc:
