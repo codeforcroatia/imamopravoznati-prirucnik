@@ -2,10 +2,8 @@
 redirect_from: /hr/index.html
 section: smjernice
 lang: hr
-title: Smjernice za službenike za informiranje
+title: Primjena Zakona o pravu na pristup informacijama
 ---
-
-## Primjena Zakona o pravu na pristup informacijama
 
 ### Priručnik za službenike za informiranje u tijelima javne vlasti
 
@@ -28,3 +26,5 @@ U Priručniku su u pojedinim poglavljima opisane pojedine zakonske obveze tijela
 Prilikom rješavanja zahtjeva za pristup informacijama i ponovnu uporabu informacija službenike za informiranje upućujemo na praćenje upravne i sudske prakse u ovom području koja je omogućena putem [Tražilice odluka i mišljenja](http://tom.pristupinfo.hr) Povjerenika za informiranje.
 
 Za početak, pogledajte [predgovor](predgovor/) Povjerenice za informiranje. Navigirajte kroz priručnik korištenjem sadržaja (potražite sa strane ili u zaglavlju).
+
+Sljedeće: [Predgovor](predgovor/)
