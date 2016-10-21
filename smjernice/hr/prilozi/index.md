@@ -7,7 +7,8 @@ title: Prilozi
 
 1. [Popis propisa](/hr/prilozi/popis-propisa)
 2. [Lista za provjeru ispunjanja obveze proaktivne objave informacija](lista-za-provjeru-ispunjenja-obaveze)
-3. [Obrasci](obrasci):
+3. [Uputa za provedbu članka 13. Zakona o pravu na pristup informacijama](http://www.pristupinfo.hr/vazno-uputa-za-provedbu-cl-13-zppi/)
+4. [Obrasci](obrasci):
    * [Obrazac br. 1 - Upisnik](/smjernice/hr/prilozi/obrasci/#obrazac-br-1)
    * [Obrazac br. 2 - Zahtjev za pristup informacijama](/smjernice/hr/prilozi/obrasci/#obrazac-br-2)
    * [Obrazac br. 3 - Zahtjev za dopunu ili ispravak informacije](/smjernice/hr/prilozi/obrasci/#obrazac-br-3)
