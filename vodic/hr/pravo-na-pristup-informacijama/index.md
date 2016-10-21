@@ -13,7 +13,7 @@ Svatko ima pravo na informacije koje su javnog karaktera, a u posjedu su tijela 
 
 To znači da svaki građanin (fizička osoba, u bilo kojem svojstvu) kao i svaka pravna osoba (tvrtka, udruga civilnog društva, medij, ustanova, i sl.) ima pravo na informaciju koja je javnog karaktera. 
 
-Radi se o informacijama o radu tijela javne vlasti, njihovom odlučivanju i odlukama, financijskim pitanjima, odnosno svemu što je u vezi s njihovim radom ili organizacijom , osim u slučajevima kada su  informacija ili njezini dijelovi zaštićeni zakonom radi očuvanja drugih važnih interesa (npr. privatnosti ili nacionalne sigurnosti). Informacija pri tome obuhvaća sve već postojeće informacije u obliku dokumenata, zapisa ili u bilo kojem obliku zabilježenih informacija (pisanih, vizualnih, slušnih).
+Radi se o informacijama o radu tijela javne vlasti, njihovom odlučivanju i odlukama, financijskim pitanjima, odnosno svemu što je u vezi s njihovim radom ili organizacijom, osim u slučajevima kada su  informacija ili njezini dijelovi zaštićeni zakonom radi očuvanja drugih važnih interesa (npr. privatnosti ili nacionalne sigurnosti). Informacija pri tome obuhvaća sve već postojeće informacije u obliku dokumenata, zapisa ili u bilo kojem obliku zabilježenih informacija (pisanih, vizualnih, slušnih).
 
 To je pravo neovisno o državljanstvu ili sjedištu pravne osobe – jednak je tretman domaćih i stranih fizičkih i pravnih osoba. Drugim riječima, pravo možete ostvariti bez obzira jeste li državljanin ILI-ILI stranac odnosno imate li kao pravna osoba sjedište u RH ili u inozemstvu.
 
@@ -21,7 +21,7 @@ To je pravo neovisno o državljanstvu ili sjedištu pravne osobe – jednak je t
 
 Obveznike primjene Zakona o pravu na pristup informacijama, odnosno postupanja po zahtjevima korisnika Zakon naziva tijelima javne vlasti. Kao što to sam naziv kaže, ključni element rada takvih tijela jest rad u javnom interesu temeljem propisane ovlasti ili djelokruga javne službe, financiranje javnim sredstvima ili činjenica da ih je osnovala država, županija, grad ili općina odnosno njihove pravne osobe. Tijela javne vlasti mogu imati i profitni karakter, ali to ih ne isključuje iz kruga obveznika primjene Zakona, ukoliko su ispunjeni drugi uvjeti. Istovremeno, nije svaka pravna osoba ujedno i obveznik Zakona o pravu na pristup informacijama, pa tako privatna poduzeća u načelu nisu tijela javne vlasti.
 
-Tijela javne vlasti od kojih možete tražiti informacije su državna tijela (primjerice Vlada RH,Hrvatski sabor, Predsjednik RH), tijela državne uprave (npr. ministarstva, uredi državne uprave), pravosudna tijela (sudovi, državna odvjetništva), lokalna samouprava ( općine, gradovi, županije), tijela s javnim ovlastima i tijela koja obavljaju javnu službu (primjerice škole i fakulteti, zdravstvene ustanove, centri za socijalnu skrb, agencije i zavodi, komore), trgovačka društva u većinskom javnom vlasništvu i druge pravne osobe koje se financiraju iz državnog proračuna ili iz proračuna jedinica lokalne i područne (regionalne) samouprave, odnosno iz javnih sredstava (nameta, davanja i sl.).
+Tijela javne vlasti od kojih možete tražiti informacije su državna tijela (primjerice Vlada RH,Hrvatski sabor, Predsjednik RH), tijela državne uprave (npr. ministarstva, uredi državne uprave), pravosudna tijela (sudovi, državna odvjetništva), lokalna samouprava (općine, gradovi, županije), tijela s javnim ovlastima i tijela koja obavljaju javnu službu (primjerice škole i fakulteti, zdravstvene ustanove, centri za socijalnu skrb, agencije i zavodi, komore), trgovačka društva u većinskom javnom vlasništvu i druge pravne osobe koje se financiraju iz državnog proračuna ili iz proračuna jedinica lokalne i područne (regionalne) samouprave, odnosno iz javnih sredstava (nameta, davanja i sl.).
 
 Kako biste saznali od kojih tijela javne vlasti možete tražiti informacije, njihov popis možete pronaći na [Popisu tijela javne vlasti](http://tjv.pristupinfo.hr) Povjerenika za informiranje.
 
@@ -55,7 +55,7 @@ Osim već spomenutog načela javnosti i slobodnog pristupa prema kojem su inform
 > 
 > Možete sudjelovati u postupku donošenja propisa putem savjetovanja s javnošću i pratiti kako se odvijaju sjednice tijela javne vlasti.
 > 
-> Tijela javne vlasti koja su obvezna pružiti informaciju u pravilu se nalaze Popisu tijela javne vlasti.
+> Tijela javne vlasti koja su obvezna pružiti informaciju u pravilu se nalaze na popisu tijela javne vlasti.
 > 
 > Ako Vam tijelo javne vlasti uskrati pristup informaciji ili ne odgovori na Vaš zahtjev, možete podnijeti žalbu Povjereniku za informiranje.
 > 
