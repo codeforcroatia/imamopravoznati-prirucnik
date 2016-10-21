@@ -30,7 +30,7 @@ title: Ostvarivanje prava na pristup informacijama - korak po korak
 
 ## Korak 4: Nezadovoljan sam rješenjem tijela javne vlasti.
 
-- rješenjem tijlo javne vlasti je odbilo moj zahtjev u cijelosti, djelomično ili uopće nije odgovorilo na moj zahtjev pa podnosim žalbu Povjereniku za informiranje u roku 15 dana (putem  samog tijela javne vlasti) odnosno kad protekne rok za odlučivanje (u slučaju šutnje uprave)
+- rješenjem tijelo javne vlasti je odbilo moj zahtjev u cijelosti, djelomično ili uopće nije odgovorilo na moj zahtjev pa podnosim žalbu Povjereniku za informiranje u roku 15 dana (putem  samog tijela javne vlasti) odnosno kad protekne rok za odlučivanje (u slučaju šutnje uprave)
 - Povjerenik je odbacio moju žalbu jer je nisam podnio u roku ili nema sve propisane dijelove – mogu pokrenuti upravni spor pred Visokim upravnim sudom RH
 - Povjerenik je naložio tijelu javne vlasti da riješi moj zahtjev (ako se radilo o šutnji uprave) ili da ga ponovno riješi - čekam da tijelo riješi moj zahtjev i vraćam se na neki od prethodnih koraka pod 3
 - Povjerenik je sam riješio stvar i naložio tijelu javne vlasti da li da mi omogući pristup informacijama, jer je neopravdano uskratilo pristup - zadovoljan sam i moje pravo je ostvareno 
