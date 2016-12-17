@@ -1,6 +1,6 @@
-# opendatahandbook-v2
+# Croatian FOI Handbooks v1
 
-Fork of original repository of http://opendatahandbook.org/
+Fork of original repository of [opendatahandbook-v2](http://opendatahandbook.org/).
 
 This is a [Jekyll](http://jekyllrb.com/) based site, with pages written in HTML and [Markdown](http://daringfireball.net/projects/markdown/syntax) (specifically [Kramdown](http://kramdown.gettalong.org/syntax.html)), with Markdown being used where possible for ease of editing.
 
