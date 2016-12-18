@@ -11,11 +11,11 @@ Pristup informaciji podnošenjem zahtjeva tijelu javne vlasti može zatražiti s
 
 ## Što jest, a što nije informacija koje mogu zatražiti (i dobiti) u smislu Zakona o pravu na pristup informacijama?
 
-Informacija je svaki dokument, zapis, dosje, registar i drugo, a može biti može biti napisana, nacrtana, tiskana, snimljena kao magnetni, optički, elektronički ili neki drugi zapis. Informacija mora postojati u materijaliziranom obliku (npr. zapisana, snimljena).
+Informacija je svaki dokument, zapis, dosje, registar i drugo, a može biti napisana, nacrtana, tiskana, snimljena kao magnetni, optički, elektronički ili neki drugi zapis. Informacija mora postojati u materijaliziranom obliku (npr. zapisana ili snimljena).
 
 Karakteristično za informaciju jest da je nastala u okviru djelokruga tijela javne vlasti ili u vezi s organizacijom i radom tijela javne vlasti. Drugim riječima, informacija se odnosi na ono što tijelo javne vlasti radi i na način na koji to radi.
 
-Misli i ideje nisu informacija u smislu Zakona pa pristup informacijama, a to nisu ni podaci koji nisu vezani uz rad i djelokrug tijela. Ako tijelo javne vlasti utvrdi da ono što tražite ne predstavlja informaciju u smislu Zakona, rješenjem će odbiti Vaš zahtjev, uz obrazloženje i uputu o pravu na žalbu Povjereniku za informiranje. Dakle, ako tražite objašnjenje kada gradonačelnik planira razmotriti izgradnju dječjeg vrtića,  slaba je vjerojatnost da će se raditi o informaciji u smislu Zakona, osim ako već ne postoji pisani  dokument o tom pitanju (npr. dnevni red sjednice na kojoj je jedna od točaka razmatranje pitanje izgradnje vrtića; zaključak kolegija da će se isto razmatrati na nekoj sjednici). Isto tako, informacija o tome kojim se sportom bavi ministar u slobodno vrijeme, iako može biti interesantna javnosti, nije načelno informacija javnog karaktera pa se samim time neće se raditi  o informaciji u smislu Zakona.
+Misli i ideje nisu informacija u smislu Zakona pa pristup informacijama, a to nisu ni podaci koji nisu vezani uz rad i djelokrug tijela. Ako tijelo javne vlasti utvrdi da ono što tražite ne predstavlja informaciju u smislu Zakona, rješenjem će odbiti Vaš zahtjev, uz obrazloženje i uputu o pravu na žalbu Povjereniku za informiranje. Dakle, ako tražite objašnjenje kada gradonačelnik planira razmotriti izgradnju dječjeg vrtića, slaba je vjerojatnost da će se raditi o informaciji u smislu Zakona, osim ako već ne postoji pisani dokument o tom pitanju (npr. dnevni red sjednice na kojoj je jedna od točaka razmatranje pitanje izgradnje vrtića ili zaključak kolegija da će se isto razmatrati na nekoj sjednici). Isto tako, informacija o tome kojim se sportom bavi ministar u slobodno vrijeme, iako može biti interesantna javnosti, nije načelno informacija javnog karaktera pa se samim time neće se raditi o informaciji u smislu Zakona.
 
 U nekim slučajevima Vaše traženje se može odnositi na neki drugi oblik informiranja javnosti i korisnika o njihovim pravima ili radu tijela, kao što su tumačenja i objašnjenja propisa radi ostvarivanja prava, objašnjenja i upute u vezi nekog konkretnog postupanja i slično. U tim slučajevima tijelo javne vlasti će Vas obavijestiti da se ne radi o zahtjevu za pristup informacijama i uputiti Vas na koji način možete dobiti odgovor odnosno pomoć tijela.
 
@@ -36,7 +36,7 @@ Primjeri informacija koje možete tražiti:
 
 ## Što ako želim pristupiti informacijama o samome sebi?
 
-U slučaju traženja tzv. vlastitih informacija, kao što su primjerice uvid u vlastiti zdravstveni karton,  morate znati da se takav uvid ostvaruje prema odredbama Zakona o zaštiti prava pacijenata, pa i Zakona o zaštiti osobnih podataka, a ne temeljem Zakona o pravu na pristup informacijama. U slučaju da Vam tijelo javne vlasti uskraćuje vlastite informacije možete se obratiti [Agenciji za zaštitu osobnih podataka](www.azop.hr ).
+U slučaju traženja tzv. vlastitih informacija, kao što su primjerice uvid u vlastiti zdravstveni karton, morate znati da se takav uvid ostvaruje prema odredbama Zakona o zaštiti prava pacijenata, pa i Zakona o zaštiti osobnih podataka, a ne temeljem Zakona o pravu na pristup informacijama. U slučaju da Vam tijelo javne vlasti uskraćuje vlastite informacije možete se obratiti [Agenciji za zaštitu osobnih podataka][1].
 
 Imajte na umu da se putem Zakona o pravu na pristup informacijama ostvaruje pristup informacijama koje su dostupne svima na jednak način i koje u svakom trenutku mogu biti javno objavljene.
 
@@ -46,7 +46,7 @@ Zakon o pravu na pristup informacijama ne primjenjuje se na informacije koje su 
 
 Ako ste primjerice podnijeli zahtjev za ostvarivanje nekog prava tijelu javne vlasti, ako ste stranka u parničnom postupku ili primjerice oštećeni u kaznenom postupku, informacije iz spisa dostupne su Vam temeljem propisa kojima je uređeno postupanje u tim propisima. U tom slučaju Vaša prava su šira nego prava korisnika zahtjeva za pristup informacijama, a načela jednake dostupnosti svima i slobodnog raspolaganja informacijom svojstvena Zakonu o pravu na pristup informacijama se ne primjenjuju.
 
-Umjesto službeniku za informiranje u tijelu javne vlasti radi uvida u spis u kojem ste stranka trebate se obratiti na način kako je odredilo tijelo javne vlasti (osobi koja vodi Vaš predmet, pisarnici, posebnoj službi, i slično). Ako se ipak obratite tijelu javne vlasti, ono Vas treba obavijestiti da se u konkretnom slučaju Zakon ne primjenjuje i uputiti Vas na način ostvarivanja Vaših prava.
+Umjesto službeniku za informiranje u tijelu javne vlasti radi uvida u spis u kojem ste stranka trebate se obratiti na način kako je odredilo tijelo javne vlasti (osobi koja vodi Vaš predmet, pisarnici, posebnoj službi, i slično). Ako se ipak obratite službeniku za informiranje u tijelu javne vlasti, ono Vas treba obavijestiti da se u konkretnom slučaju Zakon ne primjenjuje i uputiti Vas na način ostvarivanja Vaših prava.
 
 ## Postoje li informacije na koje se Zakon ne primjenjuje?
 
@@ -64,14 +64,14 @@ Tijelo javne vlasti u tom će Vas slučaju obavijestiti da se ne radi o zahtjevu
 
 Kako biste u što kraćem roku i bez nepotrebnog odugovlačenja i formaliziranja ostvarili svoje pravo, imajte na umu slijedeće: 
 
-- **Kako podnijeti zahtjev:** Zahtjev za pristup informacijama tijelu javne vlasti može se podnijeti na više načina:  usmeno (osobno ili telefonom) ili pisanim putem (poštom, osobno, telefaksom ili elektroničkom poštom). Ako želite, možete koristi i obrasce za podnošenje zahtjeva dostupne na [službenim stranicama Povjerenika za informiranje](http://www.pristupinfo.hr/pravni-okvir). 
-- **Sadržaj zahtjeva:** Zahtjev mora sadržavati neke osnovne elemente: naziv i sjedište tijela javne vlasti, podatke iz kojih se lako može zaključiti koju informaciju tražite zahtjevom(opis ili naziv informacije odnosno dokumenta kojeg tražite) te Vaše podatke (ime i prezime te adresa za fizičku osobu, a naziv i sjedište za pravnu osobu).
+- **Kako podnijeti zahtjev:** Zahtjev za pristup informacijama tijelu javne vlasti može se podnijeti na više načina: usmeno (osobno ili telefonom) ili pisanim putem (poštom, osobno, telefaksom ili elektroničkom poštom). Ako želite, možete koristiti i obrasce za podnošenje pisanog zahtjeva dostupne na [službenim stranicama Povjerenika za informiranje][2] ili obrazac za slanje [javnog elektronskog zahtjeva][3] putem portala [Imamo pravo znati][4]. 
+- **Sadržaj zahtjeva:** Zahtjev mora sadržavati neke osnovne elemente: naziv i sjedište tijela javne vlasti, podatke iz kojih se lako može zaključiti koju informaciju tražite zahtjevom (opis ili naziv informacije odnosno dokumenta kojeg tražite) te Vaše podatke (ime i prezime te adresa za fizičku osobu, odnosno naziv i sjedište za pravnu osobu).
 
 Ukoliko Vaš zahtjev nije dovoljno jasan ili nije potpun, tj. ne sadrži sve podatke, tijelo javne vlasti će Vas bez odlaganja pozvati da ga ispravite ili dopunite u roku od 5 dana. Ako ga ne ispravite, a iz prvotnog zahtjeva nije jasno što točno tražite, tijelo javne vlasti će u pravilu odbaciti Vaš zahtjev. Stoga budite otvoreni za suradnju sa službenicima za informiranje ako traže pojašnjenje zahtjeva, jer Vam jedino na taj način mogu pomoći u ostvarivanju Vašeg prava. 
 
-U zahtjevu možete i naznačiti način na koji želite ostvariti pristup informaciji. Možete tražiti da Vam se informacija pošalje poštom ili elektroničkom poštom, ili najaviti da ćete preslike informacija podići sami u tijelu javne vlasti (i time uštedjeti moguće poštanske troškove), a možete, osobito ako niste sigurni što točno tražite, zahtijevati i uvid u dokumente i naznačiti da ćete pri tome odabrati za koje ćete sve dokumente tražiti presliku. Ako ne naznačite na koji način želite primiti tražene informacije, tijelo javne vlasti dostavit će informaciju na isti način na koji ste podnijeli zahtjev odnosno na drugi ekonomičniji način (koji stvara manje troškova, a ostvaruje svrhu).
+U zahtjevu možete i naznačiti način na koji želite ostvariti pristup informaciji. Možete tražiti da Vam se informacija pošalje poštom ili elektroničkom poštom, ili najaviti da ćete preslike informacija podići sami u tijelu javne vlasti i time uštedjeti moguće poštanske troškove, a možete osobito ako niste sigurni što točno tražite, zahtijevati i uvid u dokumente i naznačiti da ćete pri tome odabrati za koje ćete sve dokumente tražiti presliku. Ako ne naznačite na koji način želite primiti tražene informacije, tijelo javne vlasti dostavit će informaciju na isti način na koji ste podnijeli zahtjev odnosno na drugi ekonomičniji način koji stvara manje troškova, a ostvaruje svrhu.
 
-Prilikom podnošenja zahtjeva niste dužni pozvati se na Zakon o pravu na pristup informacijama, niti navesti u koju svrhu Vam informacije trebaju. Tijelo javne vlasti koje bi od Vas zahtijevalo da preimenujete podnesak u zahtjev za pristup informacijama ili navedete svrhu korištenja informacija postupalo bi suprotno Zakonu. Na takva traženja možete upozoriti Povjerenika predstavkom.
+Prilikom podnošenja zahtjeva niste dužni pozvati se na Zakon o pravu na pristup informacijama, niti navesti u koju svrhu Vam informacije trebaju. Tijelo javne vlasti koje bi od Vas zahtijevalo da preimenujete podnesak u zahtjev za pristup informacijama ili navedete svrhu korištenja informacija postupalo bi suprotno Zakonu. Na takva traženja možete upozoriti Povjerenika [predstavkom][5].
 
 Stoga uzmite u obzir potrebu da Vaš zahtjev bude jasan i potpun, da ne sadrži više od onoga što je potrebno, te koristite prikladan jezik i suzdržite se od nepotrebnih dodataka, uključujući Vaše poimanje kvalitete rada tijela javne vlasti ili konkretnih službenika. Imajte na umu i načelo suradnje i pružanja pomoći te potrebu da u komunikaciji s tijelom javne vlasti i Vi kao korisnik i samo tijelo uvažavate ljudsko dostojanstvo i integritet osobe. 
 
@@ -89,3 +89,9 @@ Stoga uzmite u obzir potrebu da Vaš zahtjev bude jasan i potpun, da ne sadrži 
 > Zatražite od službenika za informiranje u tijelu javne vlasti da potvrdi primitak Vašeg zahtjeva za pristup informacijama, osobito ako ste ga podnijeli putem elektroničke pošte. Dokaz o slanju zahtjeva bit će koristan u slučaju žalbenog postupka.
 
 Sljedeće: [Odlučivanje o zahtjevu za pristup informacijama](../odlucivanje-o-zahtjevu-za-pristup-informacijama)
+
+[1]: http://www.azop.hr
+[2]: http://www.pristupinfo.hr/pravni-okvir
+[3]: http://imamopravoznati.org/select_authority
+[4]: http://imamopravoznati.org/
+[5]: /resources/hr/#policy
