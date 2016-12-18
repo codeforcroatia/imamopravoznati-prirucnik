@@ -25,8 +25,7 @@ title: Ostvarivanje prava na pristup informacijama - korak po korak
 - u roku od 15 dana tijelo mi dostavlja rješenje kojim odbija moj zahtjev - mogu podnijeti žalbu Povjereniku za informiranje (korak 4)
 - tijelo mi u roku od 8 dana šalje obavijest da će povrh 15 dana produžiti rok za dodatnih 15 dana iz zakonom propisanih razloga (npr. tražio sam velik broj informacija, informacije su razasute po podružnicama tijela javne vlasti ili mora provesti test razmjernosti i javnog interesa) – čekam istek roka
 - tijelo ne odgovara nakon proteka od 15 dana (a nije produžilo rok) niti  nakon proteka 30 dana (ako je produžilo rok) od podnošenja urednog zahtjeva - mogu podnijeti žalbu zbog šutnje uprave (a mogu prethodno još jednom upozoriti tijelo na svoj zahtjev) (korak 4)
-- u roku od 15 odnosno 30 dana (ako je produžilo rok) tijelo je djelomično usvojilo moj zahtjev i dobio sam dio informacija - procijenit ću temeljem obrazloženja rješenja je li pristup ostalim informacijama opravdano uskraćen - ako smatram da su razlozi opravdani – zadovoljan sam što sam dobio informacije koje sam po zakonu mogao dobiti
-- ako pak smatram da nema opravdanja za uskratu, podnosim žalbu (korak 4)
+- u roku od 15 odnosno 30 dana (ako je produžilo rok) tijelo je djelomično usvojilo moj zahtjev i dobio sam dio informacija - procijenit ću temeljem obrazloženja rješenja je li pristup ostalim informacijama opravdano uskraćen - ako smatram da su razlozi opravdani – zadovoljan sam što sam dobio informacije koje sam po zakonu mogao dobiti; ako pak smatram da nema opravdanja za uskratu, podnosim žalbu (korak 4)
 
 ## Korak 4: Nezadovoljan sam rješenjem tijela javne vlasti.
 
@@ -40,9 +39,8 @@ title: Ostvarivanje prava na pristup informacijama - korak po korak
 - Povjerenik je stao na stranu tijela javne vlasti u cijelosti ili djelomično i smatra njegovo odbijanje ispravnim - mogu podnijeti tužbu Visokom upravnom sudu RH u roku od 30 dana
 - Povjerenik nije odlučio o mojoj žalbi (u roku 30 dana, odnosno 60 dana ako se radi o ograničenjima ili 90 dana ako se radi o klasificiranoj informaciji) - mogu podnijeti tužbu Visokom upravnom sudu RH (prethodno ću Povjerenika podsjetiti na svoju žalbu, osobito ako sam žalbu uputio neposredno Povjereniku, odnosno ako sam žalbu zbog šutnje tijela javne vlasti uputio putem tijela javne vlasti)
 
-## Korak 6: Pred Visokim upravnim sudom RH vodi se upravni spor.
+## Korak 6: Pred Visokim upravnim sudom RH vodi se upravni spor kojeg sam pokrenuo protiv odluke Povjerenika.
 
-- pred Visokim upravnim sudom RH vodi se upravni spor kojeg sam pokrenuo protiv odluke Povjerenika 
 - Sud je roku od 90 dana odlučio da sam u pravu - postupak pred Povjerenikom se ponavlja, vraćam se na jedan od koraka pod 4, a možda i 3
 - Sud je potvrdio odluku Povjerenika - mogu se složiti da tijelo javne vlasti, Povjerenik i Sud misle drugačije od mene, a mogu se pod određenim uvjetima obratiti i Vrhovnom sudu 
 
