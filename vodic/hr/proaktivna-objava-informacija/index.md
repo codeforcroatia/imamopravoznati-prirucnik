@@ -46,7 +46,8 @@ Ipak, tijela javne vlasti nisu obavezna objaviti informacije koje sadrže dijelo
 
 Dio tijela javne vlasti (državna tijela, tijela državne uprave, pravne osobe koje zakonom ili podzakonskim propisom osniva Republika Hrvatska, te jedinice lokalne i područne (regionalne) samouprave) moraju određene vrste informacija dostavljati u [Središnji katalog službenih dokumenata Republike Hrvatske][2].
 
-Tako [Središnji katalog službenih dokumenata RH][2] kao trajni internetski arhiv kojeg vodi [Digitalni informacijsko-dokumentacijski ured Vlade Republike Hrvatske][1] sadrži čitav niz informacija tijela javne vlasti, uključujući one koje se više ne primjenjuju odnosno ne važe.
+Tako [Središnji katalog službenih dokumenata RH][2] kao trajni internetski arhiv kojeg vodi [Središnji državni
+ured za razvoj digitalnog društva][1] sadrži čitav niz informacija tijela javne vlasti, uključujući one koje se više ne primjenjuju odnosno ne važe.
 
 Katalog sadrži zakone i druge propise, opće akte,  godišnje planove, programe, strategije, upute, izvješća o radu, financijska izvješća i druge odgovarajuće dokumente koji se odnose na područje rada tijela javne vlasti.
 
