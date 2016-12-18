@@ -9,7 +9,7 @@ title: Pristup informacijama za novinare
 
 Pristup informacijama novinarima je osnovni alat u radu. Bez pristupa informacijama tijela javne vlasti, novinari ne mogu obavljati svoj temeljni zadatak – izvještavati javnost. Ta se nemogućnost negativno odražava na čitav niz društvenih, političkih i gospodarskih procesa, a osobito pravo  i mogućnost građana da ocijene kvalitetu rada svojih izabranih predstavnika.
 
-U svrhu efikasnog obavljanja novinarskog posla, Ustav Republike Hrvatske u članku 38. jamči novinarima određena prava, poput slobode izvještavanja i pristupa informaciji, a navedena prava se detaljnije razrađuju Zakonom o medijima. Zakon o medijima u članku 6. propisuje dostupnost javnih informacija za novinare i medije, obvezu tijela javne vlasti da odredi osobu zaduženu za pristup javnih informacija (službenik za odnose s javnošću, za medije i sl.), ograničenja dostupnosti informacija te pravo na podnošenje tužbe sudu. 
+U svrhu efikasnog obavljanja novinarskog posla, [Ustav Republike Hrvatske][1] u članku 38. jamči novinarima određena prava, poput slobode izvještavanja i pristupa informaciji, a navedena prava se detaljnije razrađuju Zakonom o medijima. Zakon o medijima u članku 6. propisuje dostupnost javnih informacija za novinare i medije, obvezu tijela javne vlasti da odredi osobu zaduženu za pristup javnih informacija (službenik za odnose s javnošću, za medije i sl.), ograničenja dostupnosti informacija te pravo na podnošenje tužbe sudu. 
 
 Drugim riječima, pozitivni propisi novinarima omogućuju poseban put pristupa informacijama pa se oni obraćaju drugim osobama i imaju pravo informaciju dobiti brže i bez pretjeranih formalnosti kojima odlikuje opći postupak pristupa informacijama. Međutim, zastarjelost Zakona o medijima onemogućava novinarima efikasnu pravnu zaštitu u slučaju uskrate informacija s obzirom da podnošenje tužbe zbog nezakonite radnje predviđene Zakonom o medijima više nije moguće  s obzirom da je u međuvremenu izmijenjen Zakon o upravnim sporovima koji je predviđao podnošenje takve tužbe. Ujedno, razlozi ograničenja su zastarjeli, kao i definicija tijela javne vlasti.
 
@@ -27,26 +27,28 @@ Međutim, u nekim slučajevima novinar može odabrati podnijeti zahtjev za prist
 
 Nekoliko je okolnosti koje novinar treba imati na umu kada traži informacije od tijela javne vlasti.
 
-Prvo, potrebno je odabrati prikladan instrument za pristup informacijama ovisno o svrsi, karakteru informacije i vremenu na raspolaganju. Ako želite brz pristup i odgovor na neko pitanje, pogodnije je podnijeti novinarski upit. Ako istražujete neki problem, potrebni su Vam dokumenti koje ćete sami protumačiti, informacije skupljate iz više izvora  i imate više vremena na raspolaganju, a želite imati veću sigurnost da ćete informaciju dobiti, pogodan instrument je Zakon o pravu na pristup informacijama.
+**Prvo**, potrebno je odabrati prikladan instrument za pristup informacijama ovisno o svrsi, karakteru informacije i vremenu na raspolaganju. Ako želite brz pristup i odgovor na neko pitanje, pogodnije je podnijeti novinarski upit. Ako istražujete neki problem, potrebni su Vam dokumenti koje ćete sami protumačiti, informacije skupljate iz više izvora  i imate više vremena na raspolaganju, a želite imati veću sigurnost da ćete informaciju dobiti, pogodan instrument je Zakon o pravu na pristup informacijama.
 
-Drugo, koji god instrument koristili, formulirajte upit odnosno zahtjev na način koji omogućuje identifikaciju informacije, odnosno budite što je moguće precizniji. Ograničiti upit/zahtjev na samo
+**Drugo**, koji god instrument koristili, formulirajte upit odnosno zahtjev na način koji omogućuje identifikaciju informacije, odnosno budite što je moguće precizniji. Ograničiti upit/zahtjev na samo
 
-Treće, prilikom podnošenja upita ili zahtjeva izbjegavajte osobne komentare o radu tijela javne vlasti.
+**Treće**, prilikom podnošenja upita ili zahtjeva izbjegavajte osobne komentare o radu tijela javne vlasti.
 
-Četvrto, za veću sigurnost obratite se i glasnogovorniku i službeniku za informiranje. 
+**Četvrto**, za veću sigurnost obratite se i glasnogovorniku i službeniku za informiranje. 
 
-Peto, tražite potvrdu o primitku upita odnosno zahtjeva, čak i kada ih šaljete e-poštom. 
+**Peto**, tražite potvrdu o primitku upita odnosno zahtjeva, čak i kada ih šaljete e-poštom. 
 
-Šesto, u svom traženju budite realistični. 
+**Šesto**, u svom traženju budite realistični. 
 
-Sedmo, nemojte odustati od traženja informacije koju biste kao korisnik mogli dobiti zahtjevom za pristup informacijama. Činjenica da Vam je primjerice neko ministarstvo ili gradska uprava uskratilo neki dokument pozivajući se na poslovnu tajnu ili zaštitu osobnih podataka, ne znači nužno da je takva odluka zakonita. Samo korištenjem pravnih sredstava za zaštitu prava na pristup informacijama možete osigurati veću transparentnost u radu tijela javne vlasti.
+**Sedmo**, nemojte odustati od traženja informacije koju biste kao korisnik mogli dobiti zahtjevom za pristup informacijama. Činjenica da Vam je primjerice neko ministarstvo ili gradska uprava uskratilo neki dokument pozivajući se na poslovnu tajnu ili zaštitu osobnih podataka, ne znači nužno da je takva odluka zakonita. Samo korištenjem pravnih sredstava za zaštitu prava na pristup informacijama možete osigurati veću transparentnost u radu tijela javne vlasti.
 
-Osmo, ako ste informaciju dobili temeljem Zakona o pravu na pristup informacijama, osobito kad se radi o velikoj novinarskoj priči ili temi koja je od velike važnosti za javnost, napomenite da ste informacije dobili tim putem, jer na taj način doprinosite promicanju pristupa informacijama u javnosti. 
+**Osmo**, ako ste informaciju dobili temeljem Zakona o pravu na pristup informacijama, osobito kad se radi o velikoj novinarskoj priči ili temi koja je od velike važnosti za javnost, napomenite da ste informacije dobili tim putem, jer na taj način doprinosite promicanju pristupa informacijama u javnosti. 
 
 ## Imam li pravnu zaštitu kao novinar u slučaju uskrate dostupnosti odnosno pristupa informacijama?
 
 Ako ste zatražili informaciju prema Zakonu o medijima, a pristup Vam nije omogućen, možete na pisano obrazloženje glasnogovornika koje Vam je dostavio u roku od 3 dana uputiti prigovor čelniku tijela, a zatim  u slučaju da Vaš prigovor ne bude usvojen, tužbu upravnom sudu nadležnom prema sjedištu tijela javne vlasti, a radi ocjene zakonitosti postupanja javnopravnog tijela.
 
-Ako Vam je rješenjem uskraćen pristup informacijama prema Zakonu o pravu na pristup informacijama možete u roku od 15 dana podnijeti žalbu Povjereniku za informiranje. Isto možete učiniti ako tijelo ne odgovori na postavljeni zahtjev u roku.
+Ako Vam je rješenjem uskraćen pristup informacijama prema Zakonu o pravu na pristup informacijama možete u roku od 15 dana podnijeti [žalbu Povjereniku za informiranje][1]. Isto možete učiniti ako tijelo ne odgovori na postavljeni zahtjev u roku.
 
 Sljedeće: [Ostvarivanje prava na pristup informacijama - korak po korak](../korak-po-korak)
+
+[1]: /resources/hr/#policy
