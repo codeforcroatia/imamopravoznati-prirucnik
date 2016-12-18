@@ -7,7 +7,7 @@ description: |
   odgovornost javnog sektora, potiče korisnički orijentirano djelovanje javne uprave, 
   suzbija korupciju i povećava legitimitet institucija i povjerenje građana u vlast.
 baseurl: ""
-url: "http://publikacije.codeforcroatia.org" # the base hostname & protocol for your site
+url: "http://publikacije.imamopravoznati.org" # the base hostname & protocol for your site
 github_username:  codeforcroatia
 github_repo:  ppi-prirucnik
 paypal: 

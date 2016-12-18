@@ -10,7 +10,7 @@ js:
 
   <h1>{{ page.title }}</h1>
   <div class="intro">
-    <p><em>The resource library gathers a variety of resource that relate to open data and are produced by the community. For academic research about open data, please refer to the <a href="http://bibliography.opendataresearch.org/">web foundation bibliography</a>. To add a resource to the library, follow <a href="contribute/add-resource/">these steps</a>.</em></p>
+    <p><em>Ovaj popis linkova okuplja na jednom mjestu službene i neslužbene izvore otvorenih podataka te prezentacijske i edukativne resurse o otvorenim podacima. Neke od ovih informacija izradile su udruge, civilna društa, akademici, aktivisti ili službenici tijela javne vlasti. Da biste ovdej dodali nove resurse, pratite <a href="contribute/add-resource/">ove korake</a>.</em></p>
   </div>
 
   <!-- start resource topics section -->
@@ -20,13 +20,13 @@ js:
     </header>
     <ul>
       <li>
-        <a href="#basics" style="background-image:url(../img/basics.jpg)" data-attribution="CC BY / iffany terry">
+        <a href="#basics" style="background-image:url(../../img/basics.jpg)" data-attribution="CC BY / iffany terry">
           <h3>Službene stranice tijela</h3>
         </a>
       </li>
       <li>
         <a href="#policy" style="background-image:url(../img/Policy.jpg)" data-attribution="CC BY / Connect Euranet">
-          <h3>Policy</h3>
+          <h3>Zakonodavni okvir</h3>
         </a>
       </li>
       <li>
@@ -67,25 +67,25 @@ js:
   <!-- start resource media types section -->
   <section class="media-types">
     <header>
-      <h2>Media Types</h2>
+      <h2>Vrste informacija</h2>
     </header>
     <ul>
       <li>
         <a href="#">
           <span class="icon-world"></span>
-          <h3>Articles</h3>
+          <h3>Članci</h3>
         </a>
       </li>
       <li>
         <a href="#">
           <span class="icon-file-pdf"></span>
-          <h3>Presentations</h3>
+          <h3>Prezentacije</h3>
         </a>
       </li>
       <li>
         <a href="#">
           <span class="icon-book"></span>
-          <h3>Publications</h3>
+          <h3>Publikacije</h3>
         </a>
       </li>
       <li>
@@ -158,9 +158,9 @@ js:
 
     <li>
       <a name="policy"></a>
-      <h2>Policy</h2>
+      <h2>Zakonodavni okvir</h2>
       {% for resource in site.pages %}
-      {% if resource.section == 'resources' and resource.Topic contains 'Policy' %}
+      {% if resource.section == 'resources' and resource.Topic contains 'Zakonodavni' %}
       <aside>
         <a class="icon-info"><span>Metadata</span></a>
         <dl>
