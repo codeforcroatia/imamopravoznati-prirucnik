@@ -128,4 +128,4 @@ Tijelo javne vlasti obvezno je odlučiti o vašem zahtjevu za dopunu, odnosno is
 
 Sljedeće: [Zaštita prava na pristup informacijama](../zastita-prava-na-pristup-informacijama)
 
-[1]: ../../resources/hr/#policy
+[1]: /resources/hr/#policy
