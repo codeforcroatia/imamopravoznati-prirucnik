@@ -16,7 +16,7 @@ js:
   <!-- start resource topics section -->
   <section class="topics">
     <header>
-      <h2>Featured Topics</h2>
+      <h2>Teme</h2>
     </header>
     <ul>
       <li>
@@ -25,38 +25,43 @@ js:
         </a>
       </li>
       <li>
-        <a href="#policy" style="background-image:url(../img/Policy.jpg)" data-attribution="CC BY / Connect Euranet">
+        <a href="#policy" style="background-image:url(../../img/Policy.jpg)" data-attribution="CC BY / Connect Euranet">
           <h3>Zakonodavni okvir</h3>
         </a>
       </li>
       <li>
-        <a href="#standards" style="background-image:url(../img/print.jpg)" data-attribution="CC BY / Intrinsic-Image">
-          <h3>Standards</h3>
+        <a href="#standards" style="background-image:url(../../img/print.jpg)" data-attribution="CC BY / Intrinsic-Image">
+          <h3>Standardi</h3>
         </a>
       </li>
       <li>
-        <a href="#data-training" style="background-image:url(../img/training.jpg)" data-attribution="CC BY / cybrarian77">
-          <h3>Data Training</h3>
+        <a href="#data-training" style="background-image:url(../../img/training.jpg)" data-attribution="CC BY / cybrarian77">
+          <h3>Edukacija i trening</h3>
         </a>
       </li>
       <li>
-        <a href="#right-to-information" style="background-image:url(../img/FOI.jpg)" data-attribution="CC BY / opensource.com">
-          <h3>Right to Information</h3>
+        <a href="#right-to-information" style="background-image:url(../../img/FOI.jpg)" data-attribution="CC BY / opensource.com">
+          <h3>Pravo na informiranje</h3>
         </a>
       </li>
       <li>
-        <a href="#privacy" style="background-image:url(../img/lock.jpg)">
-          <h3>Privacy</h3>
+        <a href="#academic-research" style="background-image:url(../../img/academic.jpg)" data-attribution="CC BY / Connect Euranet">
+          <h3>Akademsko istraživanje</h3>
         </a>
       </li>
       <li>
-        <a href="#civic-engagement" style="background-image:url(../img/Civic.jpg)" data-attribution="CC BY /Matt Fenby Taylor">
-          <h3>Civic Engagement</h3>
+        <a href="#privacy" style="background-image:url(../../img/lock.jpg)">
+          <h3>Privatnost</h3>
         </a>
       </li>
       <li>
-        <a href="#advocacy" style="background-image:url(../img/Advocacy.jpg)" data-attribution="CC BY /Alex Naanou">
-          <h3>Advocacy</h3>
+        <a href="#civic-engagement" style="background-image:url(../../img/Civic.jpg)" data-attribution="CC BY /Matt Fenby Taylor">
+          <h3>Građanska uključenost</h3>
+        </a>
+      </li>
+      <li>
+        <a href="#advocacy" style="background-image:url(../../img/Advocacy.jpg)" data-attribution="CC BY /Alex Naanou">
+          <h3>Javno zagovaranje</h3>
         </a>
       </li>
     </ul>
@@ -135,19 +140,19 @@ js:
 
         {% if resource.MediaType == 'Articles' %}
         {% assign icon = 'world' %}
-        {% assign link_word = 'Website' %}
+        {% assign link_word = 'internetsku stranicu' %}
         {% elsif resource.MediaType == 'Presentations' %}
         {% assign icon = 'file-pdf' %}
-        {% assign link_word = 'Presentation' %}
+        {% assign link_word = 'prezentaciju' %}
         {% elsif resource.MediaType == 'Publications' %}
         {% assign icon = 'book' %}
-        {% assign link_word = 'Presentation' %}
+        {% assign link_word = 'publikaciju' %}
         {% elsif resource.MediaType == 'Video' %}
         {% assign icon = 'youtube' %}
-        {% assign link_word = 'Video' %}
+        {% assign link_word = 'video' %}
         {% else  %}
         {% assign icon = 'world' %}
-        {% assign link_word = 'Link' %}
+        {% assign link_word = 'link' %}
         {% endif %}
 
         <a href={{ resource.Link }}><span class="icon-{{ icon }}"></span> <span>Pogledaj {{ link_word }}</span></a>
@@ -190,22 +195,22 @@ js:
 
         {% if resource.MediaType == 'Articles' %}
         {% assign icon = 'world' %}
-        {% assign link_word = 'Website' %}
+        {% assign link_word = 'internetsku stranicu' %}
         {% elsif resource.MediaType == 'Presentations' %}
         {% assign icon = 'file-pdf' %}
-        {% assign link_word = 'Presentation' %}
+        {% assign link_word = 'prezentaciju' %}
         {% elsif resource.MediaType == 'Publications' %}
         {% assign icon = 'book' %}
-        {% assign link_word = 'Presentation' %}
+        {% assign link_word = 'publikaciju' %}
         {% elsif resource.MediaType == 'Video' %}
         {% assign icon = 'youtube' %}
-        {% assign link_word = 'Video' %}
+        {% assign link_word = 'video' %}
         {% else  %}
         {% assign icon = 'world' %}
-        {% assign link_word = 'Link' %}
+        {% assign link_word = 'link' %}
         {% endif %}
 
-        <a href={{ resource.Link }}><span class="icon-{{ icon }}"></span> <span>Open {{ link_word }}</span></a>
+        <a href={{ resource.Link }}><span class="icon-{{ icon }}"></span> <span>Pogledaj {{ link_word }}</span></a>
       </article>
     {% endif %}
     {% endfor %}
@@ -213,9 +218,9 @@ js:
 
     <li>
       <a name="standards"></a>
-      <h2>Standards</h2>
+      <h2>Standardi</h2>
       {% for resource in site.pages %}
-      {% if resource.section == 'resources' and resource.Topic contains 'stand' %}
+      {% if resource.section == 'resources' and resource.Topic contains 'Standard' %}
       <aside>
         <a class="icon-info"><span>Metadata</span></a>
         <dl>
@@ -245,22 +250,22 @@ js:
 
         {% if resource.MediaType == 'Articles' %}
         {% assign icon = 'world' %}
-        {% assign link_word = 'Website' %}
+        {% assign link_word = 'internetsku stranicu' %}
         {% elsif resource.MediaType == 'Presentations' %}
         {% assign icon = 'file-pdf' %}
-        {% assign link_word = 'Presentation' %}
+        {% assign link_word = 'prezentaciju' %}
         {% elsif resource.MediaType == 'Publications' %}
         {% assign icon = 'book' %}
-        {% assign link_word = 'Presentation' %}
+        {% assign link_word = 'publikaciju' %}
         {% elsif resource.MediaType == 'Video' %}
         {% assign icon = 'youtube' %}
-        {% assign link_word = 'Video' %}
+        {% assign link_word = 'video' %}
         {% else  %}
         {% assign icon = 'world' %}
-        {% assign link_word = 'Link' %}
+        {% assign link_word = 'link' %}
         {% endif %}
 
-        <a href={{ resource.Link }}><span class="icon-{{ icon }}"></span> <span>Open {{ link_word }}</span></a>
+        <a href={{ resource.Link }}><span class="icon-{{ icon }}"></span> <span>Pogledaj {{ link_word }}</span></a>
       </article>
     {% endif %}
     {% endfor %}
@@ -268,9 +273,9 @@ js:
 
     <li>
       <a name="data-training"></a>
-      <h2>Data Training</h2>
+      <h2>Edukacija i trening</h2>
       {% for resource in site.pages %}
-      {% if resource.section == 'resources' and resource.Topic contains 'raining' %}
+      {% if resource.section == 'resources' and resource.Topic contains 'Edukacij' %}
       <aside>
         <a class="icon-info"><span>Metadata</span></a>
         <dl>
@@ -300,22 +305,22 @@ js:
 
         {% if resource.MediaType == 'Articles' %}
         {% assign icon = 'world' %}
-        {% assign link_word = 'Website' %}
+        {% assign link_word = 'internetsku stranicu' %}
         {% elsif resource.MediaType == 'Presentations' %}
         {% assign icon = 'file-pdf' %}
-        {% assign link_word = 'Presentation' %}
+        {% assign link_word = 'prezentaciju' %}
         {% elsif resource.MediaType == 'Publications' %}
         {% assign icon = 'book' %}
-        {% assign link_word = 'Presentation' %}
+        {% assign link_word = 'publikaciju' %}
         {% elsif resource.MediaType == 'Video' %}
         {% assign icon = 'youtube' %}
-        {% assign link_word = 'Video' %}
+        {% assign link_word = 'video' %}
         {% else  %}
         {% assign icon = 'world' %}
-        {% assign link_word = 'Link' %}
+        {% assign link_word = 'link' %}
         {% endif %}
 
-        <a href={{ resource.Link }}><span class="icon-{{ icon }}"></span> <span>Open {{ link_word }}</span></a>
+        <a href={{ resource.Link }}><span class="icon-{{ icon }}"></span> <span>Pogledaj {{ link_word }}</span></a>
       </article>
      {% endif %}
     {% endfor %}
@@ -323,9 +328,9 @@ js:
 
     <li>
       <a name="right-to-information"></a>
-      <h2>Right to Information</h2>
+      <h2>Pravo na informacije</h2>
       {% for resource in site.pages %}
-      {% if resource.section == 'resources' and resource.Topic contains 'nformation' %}
+      {% if resource.section == 'resources' and resource.Topic contains 'Pravo' %}
       <aside>
         <a class="icon-info"><span>Metadata</span></a>
         <dl>
@@ -355,22 +360,22 @@ js:
 
         {% if resource.MediaType == 'Articles' %}
         {% assign icon = 'world' %}
-        {% assign link_word = 'Website' %}
+        {% assign link_word = 'internetsku stranicu' %}
         {% elsif resource.MediaType == 'Presentations' %}
         {% assign icon = 'file-pdf' %}
-        {% assign link_word = 'Presentation' %}
+        {% assign link_word = 'prezentaciju' %}
         {% elsif resource.MediaType == 'Publications' %}
         {% assign icon = 'book' %}
-        {% assign link_word = 'Presentation' %}
+        {% assign link_word = 'publikaciju' %}
         {% elsif resource.MediaType == 'Video' %}
         {% assign icon = 'youtube' %}
-        {% assign link_word = 'Video' %}
+        {% assign link_word = 'video' %}
         {% else  %}
         {% assign icon = 'world' %}
-        {% assign link_word = 'Link' %}
+        {% assign link_word = 'link' %}
         {% endif %}
 
-        <a href={{ resource.Link }}><span class="icon-{{ icon }}"></span> <span>Open {{ link_word }}</span></a>
+        <a href={{ resource.Link }}><span class="icon-{{ icon }}"></span> <span>Pogledaj {{ link_word }}</span></a>
       </article>
     {% endif %}
     {% endfor %}
@@ -378,10 +383,10 @@ js:
 
     {% comment %}
     <li>
-      <h2>Academic Research</h2>
+      <h2>Akademsko istraživanje</h2>
       <a name="academic-research"></a>
     {% for resource in site.pages %}
-    {% if resource.section == 'resources' and resource.Topic contains 'cademic' %}
+    {% if resource.section == 'resources' and resource.Topic contains 'Akademsk' %}
       <aside>
         <a class="icon-info"><span>Metadata</span></a>
         <dl>
@@ -411,22 +416,22 @@ js:
 
         {% if resource.MediaType == 'Articles' %}
         {% assign icon = 'world' %}
-        {% assign link_word = 'Website' %}
+        {% assign link_word = 'internetsku stranicu' %}
         {% elsif resource.MediaType == 'Presentations' %}
         {% assign icon = 'file-pdf' %}
-        {% assign link_word = 'Presentation' %}
+        {% assign link_word = 'prezentaciju' %}
         {% elsif resource.MediaType == 'Publications' %}
         {% assign icon = 'book' %}
-        {% assign link_word = 'Presentation' %}
+        {% assign link_word = 'publikaciju' %}
         {% elsif resource.MediaType == 'Video' %}
         {% assign icon = 'youtube' %}
-        {% assign link_word = 'Video' %}
+        {% assign link_word = 'video' %}
         {% else  %}
         {% assign icon = 'world' %}
-        {% assign link_word = 'Link' %}
+        {% assign link_word = 'link' %}
         {% endif %}
 
-        <a href={{ resource.Link }}><span class="icon-{{ icon }}"></span> <span>Open {{ link_word }}</span></a>
+        <a href={{ resource.Link }}><span class="icon-{{ icon }}"></span> <span>Pogledaj {{ link_word }}</span></a>
       </article>
     {% endif %}
     {% endfor %}
@@ -435,9 +440,9 @@ js:
 
     <li>
       <a name="privacy"></a>
-      <h2>Privacy</h2>
+      <h2>Privatnost</h2>
       {% for resource in site.pages %}
-      {% if resource.section == 'resources' and resource.Topic contains 'rivacy' %}
+      {% if resource.section == 'resources' and resource.Topic contains 'Privatnost' %}
        <aside>
         <a class="icon-info"><span>Metadata</span></a>
         <dl>
@@ -467,22 +472,22 @@ js:
 
         {% if resource.MediaType == 'Articles' %}
         {% assign icon = 'world' %}
-        {% assign link_word = 'Website' %}
+        {% assign link_word = 'internetsku stranicu' %}
         {% elsif resource.MediaType == 'Presentations' %}
         {% assign icon = 'file-pdf' %}
-        {% assign link_word = 'Presentation' %}
+        {% assign link_word = 'prezentaciju' %}
         {% elsif resource.MediaType == 'Publications' %}
         {% assign icon = 'book' %}
-        {% assign link_word = 'Presentation' %}
+        {% assign link_word = 'publikaciju' %}
         {% elsif resource.MediaType == 'Video' %}
         {% assign icon = 'youtube' %}
-        {% assign link_word = 'Video' %}
+        {% assign link_word = 'video' %}
         {% else  %}
         {% assign icon = 'world' %}
-        {% assign link_word = 'Link' %}
+        {% assign link_word = 'link' %}
         {% endif %}
 
-        <a href={{ resource.Link }}><span class="icon-{{ icon }}"></span> <span>Open {{ link_word }}</span></a>
+        <a href={{ resource.Link }}><span class="icon-{{ icon }}"></span> <span>Pogledaj {{ link_word }}</span></a>
       </article>
 
       {% endif %}
@@ -491,9 +496,9 @@ js:
 
     <li>
       <a name="civic-engagement"></a>
-      <h2>Civic Engagement</h2>
+      <h2>Građanska uključenost</h2>
       {% for resource in site.pages %}
-      {% if resource.section == 'resources' and resource.Topic contains 'ivic' %}
+      {% if resource.section == 'resources' and resource.Topic contains 'Građan' %}
       <aside>
         <a class="icon-info"><span>Metadata</span></a>
         <dl>
@@ -523,22 +528,22 @@ js:
 
         {% if resource.MediaType == 'Articles' %}
         {% assign icon = 'world' %}
-        {% assign link_word = 'Website' %}
+        {% assign link_word = 'internetsku stranicu' %}
         {% elsif resource.MediaType == 'Presentations' %}
         {% assign icon = 'file-pdf' %}
-        {% assign link_word = 'Presentation' %}
+        {% assign link_word = 'prezentaciju' %}
         {% elsif resource.MediaType == 'Publications' %}
         {% assign icon = 'book' %}
-        {% assign link_word = 'Presentation' %}
+        {% assign link_word = 'publikaciju' %}
         {% elsif resource.MediaType == 'Video' %}
         {% assign icon = 'youtube' %}
-        {% assign link_word = 'Video' %}
+        {% assign link_word = 'video' %}
         {% else  %}
         {% assign icon = 'world' %}
-        {% assign link_word = 'Link' %}
+        {% assign link_word = 'link' %}
         {% endif %}
 
-        <a href={{ resource.Link }}><span class="icon-{{ icon }}"></span> <span>Open {{ link_word }}</span></a>
+        <a href={{ resource.Link }}><span class="icon-{{ icon }}"></span> <span>Pogledaj {{ link_word }}</span></a>
       </article>
 
     {% endif %}
@@ -547,9 +552,9 @@ js:
 
     <li>
       <a name="advocacy"></a>
-      <h2>Advocacy</h2>
+      <h2>Javno zagovaranje</h2>
       {% for resource in site.pages %}
-      {% if resource.section == 'resources' and resource.Topic contains 'cacy' %}
+      {% if resource.section == 'resources' and resource.Topic contains 'zagovara' %}
       <aside>
         <a class="icon-info"><span>Metadata</span></a>
         <dl>
@@ -579,22 +584,22 @@ js:
 
         {% if resource.MediaType == 'Articles' %}
         {% assign icon = 'world' %}
-        {% assign link_word = 'Website' %}
+        {% assign link_word = 'internetsku stranicu' %}
         {% elsif resource.MediaType == 'Presentations' %}
         {% assign icon = 'file-pdf' %}
-        {% assign link_word = 'Presentation' %}
+        {% assign link_word = 'prezentaciju' %}
         {% elsif resource.MediaType == 'Publications' %}
         {% assign icon = 'book' %}
-        {% assign link_word = 'Presentation' %}
+        {% assign link_word = 'publikaciju' %}
         {% elsif resource.MediaType == 'Video' %}
         {% assign icon = 'youtube' %}
-        {% assign link_word = 'Video' %}
+        {% assign link_word = 'video' %}
         {% else  %}
         {% assign icon = 'world' %}
-        {% assign link_word = 'Link' %}
+        {% assign link_word = 'link' %}
         {% endif %}
 
-        <a href={{ resource.Link }}><span class="icon-{{ icon }}"></span> <span>Open {{ link_word }}</span></a>
+        <a href={{ resource.Link }}><span class="icon-{{ icon }}"></span> <span>Pogledaj {{ link_word }}</span></a>
       </article>
 
       {% endif %}

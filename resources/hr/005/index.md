@@ -1,17 +1,17 @@
 ---
 section: resources
-lang: en
-Author: Laurenellen McCann and Alisha Green
-Country: Multiple
-Description: ''
-Keywords: Open Data
-Language: English
-Link: http://sunlightfoundation.com/blog/2013/10/22/empowering-the-open-data-dialogue/
+lang: hr
+Author: Povjerenik za informiranje
+Country: Hrvatska
+Description: Obrasci za pokretanje drugostupanjskog postupka u predmetima prava na pristup informacijama i ponovne uporabe informacija, inspekcijski nadzor i nadzor nad provedbom zakona.
+Keywords: povjerenik, povjerenica, pristup informacijama, ponovna uporaba, šutnja, rješenje, žalba
+Language: hrvatski
+Link: http://www.pristupinfo.hr/hrpreuzimanje-obrazaca/
 MediaType: Articles
 Notes: ''
-Publishing_date: '2013'
-Publishing_entity: Sunlight Foundation
-Region: Global
-Title: Empowering the Open Data dialogue
-Topic: Civic engagement
+Publishing_date: ''
+Publishing_entity: PRISTUPINFO
+Region: National
+Title: Obrasci - Povjerenik za informiraje
+Topic: Zakonodavni okvir
 ---

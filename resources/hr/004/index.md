@@ -1,18 +1,17 @@
 ---
 section: resources
-lang: en
-Author: John Wonderlich
-Country: Multiple
-Description: 'Ten basic principles of open data that provide a lens to evaluate the
-  extent to which government data is open and accessible to the public. '
-Keywords: Open Data
-Language: English
-Link: http://sunlightfoundation.com/policy/documents/ten-open-data-principles/
-MediaType: Publications
+lang: hr
+Author: Povjerenik za informiranje
+Country: Hrvatska
+Description: Povjerenik za informiranje je neovisno tijelo za zaštitu prava na pristup informacijama koji štiti, prati i promiče Ustavom Republike Hrvatske zajamčeno pravo na pristup informacijama te ponovnu uporabu informacija.
+Keywords: povjerenik, povjerenica, pristup informacijama
+Language: hrvatski
+Link: http://www.pristupinfo.hr/pravni-okvir/
+MediaType: Articles
 Notes: ''
-Publishing_date: '2010'
-Publishing_entity: Sunlight Foundation
-Region: Global
-Title: Ten Open Data principles
-Topic: The Basics
+Publishing_date: ''
+Publishing_entity: PRISTUPINFO
+Region: National
+Title: Pravni okvir - Povjerenik za informiraje
+Topic: Zakonodavni okvir
 ---
