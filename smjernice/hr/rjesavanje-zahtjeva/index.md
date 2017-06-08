@@ -77,7 +77,7 @@ Važno je napomenuti da je protivno Zakonu o pravu na pristup informacijama od k
 
 > VAŽNO! Provjerite razumljivost i potpunost zahtjeva!
 
-## Korak 3: utvrđivanje primjene zakona o pravu na pristup informacijama na zahtjev
+## Korak 3: Utvrđivanje primjene zakona o pravu na pristup informacijama na zahtjev
 
 Službenik za informiranje treba obratiti pažnju na određene slučajeve kada se Zakon o pravu na pristup informacijama ne primjenjuje, koji su propisani člankom 1. stavkom 3. i 4. Zakona o pravu na pristup informacijama. U slučaju kada se Zakon o pravu na pristup informacijama ne primjenjujem, službenik za informiranje nema potrebu dalje se upuštati u meritorno rješavanje zahtjeva, ali ima obavezu o tome obavijestiti korisnika prava na pristup informacijama.
 
