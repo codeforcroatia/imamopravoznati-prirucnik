@@ -178,8 +178,10 @@ meta:
   resources:
     label: resources
     output: true
-    has_translation: false
+    has_translation: true
     title: Detaljnije o otvorenim podacima
+    languages:
+      - hr
     filters:
       - Topic
       - Language
