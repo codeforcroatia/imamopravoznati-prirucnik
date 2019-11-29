@@ -7,9 +7,9 @@
 {% assign smjernice_entry_point = site.baseurl | append: '/' | append: smjernice.label | append: '/' | append: page.lang | append: '/' | append: smjernice.toc.entry_point | append: '/' %}
 {% assign glossary_entry_point = site.baseurl | append: '/' | append: glossary.label | append: '/' | append: page.lang | append: '/' %}
 {% assign value-stories_entry_point = site.baseurl | append: '/' | append: value-stories.label | append: '/' | append: page.lang | append: '/' %}
-{% assign resources_entry_point = site.baseurl | append: '/' | append: resources.label | append: '/' %}
+{% assign resources_entry_point = site.baseurl | append: '/' | append: resources.label | append: '/' | append: page.lang | append: '/' %}
 {% assign credits_entry_point = site.baseurl | append: '/credits/' %}
-{% assign apps_entry_point = site.baseurl | append: '/solutions/en/' %}
+{% assign apps_entry_point = site.baseurl | append: '/solutions/' | append: page.lang | append: '/' %}
 
 {% assign url_parts = page.url | split: '/' %}
 
@@ -93,9 +93,9 @@
       </ul>
     </li>
 
-    <!-- start navigation for value stories section 
+    <!-- start navigation for value stories section -->
     <li{% if page.url contains 'value-stories' %} class="Selected"{% endif %}>
-      <a href="{{ smjernice_entry_point }}">Value stories</a>
+      <a href="{{ smjernice_entry_point }}">Primjeri dobre prakse</a>
       {% comment %}
       <ul>
         {% for story in site.pages %}
@@ -107,7 +107,7 @@
         {% endfor %}
       </ul>
       {% endcomment %}
-    </li> -->
+    </li>
     <!-- end navigation for value stories section -->
 
     <!-- start navigation for resources section -->
