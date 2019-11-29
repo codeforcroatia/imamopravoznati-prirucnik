@@ -75,65 +75,11 @@ permalink: pretty
 
 languages:
   -
-    - de
-    - Deutsch
-  -
-    - el
-    - Ελληνικά
-  -
     - en
     - English
   -
-    - es
-    - Español/Castellano
-  -
-    - fr
-    - Français
-  -
-    - he
-    - עברית
-  -
     - hr
     - hrvatski
-  -
-    - id
-    - Bahasa
-  -
-    - is
-    - Íslenska
-  -
-    - it
-    - Italiano
-  -
-    - ja
-    - 日本語
-  -
-    - ko
-    - 한국어
-  -
-    - lt
-    - Lietuvių
-  -
-    - lv
-    - Latviešu
-  -
-    - nl_BE
-    - Nederlands (Belgisch)
-  -
-    - pt_BR
-    - Português Brasileiro
-  -
-    - ro
-    - Română
-  -
-    - ru
-    - Pyccĸий
-  -
-    - zh_CN
-    - 中国语文
-  -
-    - zh_TW
-    - 繁體中文
 
 toc:
   - vodic
@@ -182,16 +128,16 @@ meta:
     title: Detaljnije o otvorenim podacima
     languages:
       - hr
-    #filters:
-    #  - Topic
-    #  - Language
-    #  - Region
-    #  - MediaType
+    filters:
+      - Topic
+      - Language
+      - Region
+      - MediaType
   value-stories:
     label: value-stories
     output: true
     has_translation: true
-    title: Open Data Value Stories
+    title: Primjeri dobre prakse
     languages:
       - hr
   glossary:
