@@ -2,15 +2,15 @@
 title: Publikacije o pravu na informiranje
 short_title: Pravo na informiranje
 description: |
-  Pristup informacijama temeljno je demokratsko načelo i pravo svih građana u suvremenim 
-  demokracijama, koje omogućuje razvoj transparentne i otvorene javne vlasti, jača 
-  odgovornost javnog sektora, potiče korisnički orijentirano djelovanje javne uprave, 
+  Pristup informacijama temeljno je demokratsko načelo i pravo svih građana u suvremenim
+  demokracijama, koje omogućuje razvoj transparentne i otvorene javne vlasti, jača
+  odgovornost javnog sektora, potiče korisnički orijentirano djelovanje javne uprave,
   suzbija korupciju i povećava legitimitet institucija i povjerenje građana u vlast.
 baseurl: ""
 url: "http://publikacije.imamopravoznati.org" # the base hostname & protocol for your site
 github_username:  codeforcroatia
 github_repo:  ppi-prirucnik
-paypal: 
+paypal:
 contact: http://diskurs.open.hr/
 
 gems:
@@ -182,11 +182,11 @@ meta:
     title: Detaljnije o otvorenim podacima
     languages:
       - hr
-    filters:
-      - Topic
-      - Language
-      - Region
-      - MediaType
+    #filters:
+    #  - Topic
+    #  - Language
+    #  - Region
+    #  - MediaType
   value-stories:
     label: value-stories
     output: true
@@ -387,6 +387,13 @@ defaults:
     scope:
       section: "terms"
     values:
+      layout: page
+      edit: true
+  -
+    scope:
+      section: "resources"
+    values:
+      lang: hr
       layout: page
       edit: true
 
