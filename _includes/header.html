@@ -7,12 +7,14 @@
 {% assign smjernice_entry_point = site.baseurl | append: '/' | append: smjernice.label | append: '/' | append: page.lang | append: '/' | append: smjernice.toc.entry_point | append: '/' %}
 {% assign glossary_entry_point = site.baseurl | append: '/' | append: glossary.label | append: '/' | append: page.lang | append: '/' %}
 {% assign value-stories_entry_point = site.baseurl | append: '/' | append: value-stories.label | append: '/' | append: page.lang | append: '/' %}
-{% assign primjeri-dobre-prakse_entry_point = site.baseurl | append: '/value-stories/hr/' %}
 {% assign resources_entry_point = site.baseurl | append: '/' | append: resources.label | append: '/' | append: page.lang | append: '/' %}
 {% assign credits_entry_point = site.baseurl | append: '/credits/' %}
 {% assign apps_entry_point = site.baseurl | append: '/solutions/' | append: page.lang | append: '/' %}
 
 {% assign url_parts = page.url | split: '/' %}
+
+<!-- remove after fixing value-stories -->
+{% assign value-stories_entry_point = site.baseurl | append: '/value-stories/hr/' %}
 
 {% if page.url contains 'vodic'%}
   {% assign active_section = site.meta['vodic'] %}
@@ -96,7 +98,7 @@
 
     <!-- start navigation for value stories section -->
      <li{% if page.url contains 'value-stories' %} class="Selected"{% endif %}>
-       <a href="{{ primjeri-dobre-prakse_entry_point }}">Primjeri dobre prakse</a>
+       <a href="{{ value-stories_entry_point }}">Primjeri dobre prakse</a>
        {% comment %}
        <ul>
          {% for story in site.pages %}
