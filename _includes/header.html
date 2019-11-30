@@ -6,15 +6,15 @@
 {% assign vodic_entry_point = site.baseurl | append: '/' | append: vodic.label | append: '/' | append: page.lang | append: '/' | append: vodic.toc.entry_point | append: '/' %}
 {% assign smjernice_entry_point = site.baseurl | append: '/' | append: smjernice.label | append: '/' | append: page.lang | append: '/' | append: smjernice.toc.entry_point | append: '/' %}
 {% assign glossary_entry_point = site.baseurl | append: '/' | append: glossary.label | append: '/' | append: page.lang | append: '/' %}
-{% assign value-stories_entry_point = site.baseurl | append: '/' | append: value-stories.label | append: '/' | append: page.lang | append: '/' %}
 {% assign resources_entry_point = site.baseurl | append: '/' | append: resources.label | append: '/' | append: page.lang | append: '/' %}
 {% assign credits_entry_point = site.baseurl | append: '/credits/' %}
 {% assign apps_entry_point = site.baseurl | append: '/solutions/' | append: page.lang | append: '/' %}
 
 {% assign url_parts = page.url | split: '/' %}
 
-<!-- remove after fixing value-stories -->
+<!-- update after fixing value-stories -->
 {% assign value-stories_entry_point = site.baseurl | append: '/value-stories/hr/' %}
+<!-- correct values for value-stories: site.baseurl | append: '/' | append: value-stories.label | append: '/' | append: page.lang | append: '/' -->
 
 {% if page.url contains 'vodic'%}
   {% assign active_section = site.meta['vodic'] %}
