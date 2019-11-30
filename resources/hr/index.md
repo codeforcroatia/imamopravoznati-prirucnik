@@ -1,5 +1,5 @@
 ---
-layout: resources
+layout: resursi
 title: Resursi otvorenih podataka
 lang: hr
 ---
